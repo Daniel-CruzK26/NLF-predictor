@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Gridiron AI Predictor — Spread & Machine Learning Analytics</title>
+    <meta name="description" content="Dashboard predictivo para la NFL con modelos de Machine Learning (LightGBM, XGBoost), EPA ajustado por rival, métricas de QB y detección de valor (+EV).">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+    <!-- Header & Navigation -->
+    <header>
+        <div class="header-container">
+            <div class="brand-wrapper">
+                <div class="brand-icon">🏈</div>
+                <div class="brand-text">
+                    <h1>GRIDIRON AI PREDICTOR</h1>
+                    <span>NFL SPREAD & MACHINE LEARNING ANALYTICS</span>
+                </div>
+            </div>
+            <nav class="nav-tabs">
+                <button class="nav-btn active" data-view="slate">
+                    <span>⚡</span> Cartelera y Picks
+                </button>
+                <button class="nav-btn" data-view="rankings">
+                    <span>🏆</span> Power Rankings
+                </button>
+                <button class="nav-btn" data-view="benchmark">
+                    <span>📊</span> Model Lab
+                </button>
+                <button class="nav-btn" data-view="rosters">
+                    <span>👥</span> Plantillas & QBs
+                </button>
+                <button class="nav-btn" data-view="simulator">
+                    <span>🎲</span> Simulador IA
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main>
+        <!-- Hero KPI Banner -->
+        <section class="hero-stats">
+            <div class="kpi-card highlight">
+                <div class="kpi-title">Oportunidades de Valor (+EV)</div>
+                <div class="kpi-value" id="kpi-value-picks">12</div>
+                <div class="kpi-sub">Picks con Edge ≥ 1.5 pts vs Las Vegas</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Discrepancia Promedio (Edge)</div>
+                <div class="kpi-value" id="kpi-avg-edge">5.8 pts</div>
+                <div class="kpi-sub">Ventaja estadística promedio</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Acierto ATS del Modelo (LightGBM)</div>
+                <div class="kpi-value">
+                    55.6% <span class="badge-green">+3.2% vs Mercado</span>
+                </div>
+                <div class="kpi-sub">Validación Out-of-Fold 2022–2024</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Top Value Pick de la Semana</div>
+                <div class="kpi-value" id="kpi-top-pick" style="font-size: 1.4rem; color: var(--accent-emerald);">
+                    BET ARI (+10.5)
+                </div>
+                <div class="kpi-sub">Edge de +16.1 pts vs Chargers</div>
+            </div>
+        </section>
+
+        <!-- VIEW 1: WEEKLY SLATE & VALUE PICKS -->
+        <section id="view-slate" class="view-section active">
+            <div class="controls-bar">
+                <div style="display:flex; align-items:center; gap: 0.75rem;">
+                    <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Semana 1 (Temporada 2026)</h2>
+                    <span class="badge-green" style="font-size:0.75rem;">16 Partidos Analizados</span>
+                </div>
+                <div class="filter-group">
+                    <span style="font-size:0.78rem; color:var(--text-muted); font-weight:700;">FILTRAR:</span>
+                    <button class="filter-btn active" data-filter="all">Todos (16)</button>
+                    <button class="filter-btn" data-filter="value">⭐ Solo +EV (12)</button>
+                    <button class="filter-btn" data-filter="3star">⭐⭐⭐ High Value (7)</button>
+                    <button class="filter-btn" data-filter="2star">⭐⭐ Med Value (2)</button>
+                </div>
+            </div>
+
+            <!-- Matchups Grid Container -->
+            <div class="matchups-grid" id="matchups-container">
+                <!-- Injected via JavaScript -->
+            </div>
+        </section>
+
+        <!-- VIEW 2: TEAM POWER RANKINGS & ELO -->
+        <section id="view-rankings" class="view-section">
+            <div class="controls-bar">
+                <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Power Rankings & EPA Ajustado por Rival (32 Equipos)</h2>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Equipo</th>
+                            <th>QB Titular</th>
+                            <th>División</th>
+                            <th>Power Rating</th>
+                            <th>Pase EPA (Ofensivo)</th>
+                            <th>Pase EPA (Defensivo)</th>
+                            <th>Net EPA Ajustado</th>
+                        </tr>
+                    </thead>
+                    <tbody id="teams-tbody">
+                        <!-- Injected via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- VIEW 3: MODEL PERFORMANCE & CALIBRATION -->
+        <section id="view-benchmark" class="view-section">
+            <div class="controls-bar">
+                <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Laboratorio de Modelos ML vs Las Vegas (Out-of-Fold Time Series Split)</h2>
+            </div>
+            
+            <div class="table-container" style="margin-bottom: 2rem;">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Arquitectura de Modelo</th>
+                            <th>Tipo</th>
+                            <th>MAE Spread (pts)</th>
+                            <th>RMSE</th>
+                            <th>Acierto Ganador (SU)</th>
+                            <th>Acierto vs Vegas (ATS)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="models-tbody">
+                        <!-- Injected via JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div style="background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: var(--radius-md); padding: 1.5rem;">
+                <h3 style="font-family:var(--font-display); font-size:1.1rem; margin-bottom:1rem;">Importancia de Variables (Feature Importance - XGBoost & GBDT)</h3>
+                <div id="features-container">
+                    <!-- Injected via JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 4: ACTIVE ROSTERS & QB MANAGER -->
+        <section id="view-rosters" class="view-section">
+            <div class="controls-bar">
+                <div>
+                    <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Gestor de Plantillas: 32 QBs Titulares (ESPN Live Sync)</h2>
+                    <p style="font-size:0.8rem; color:var(--text-muted);">Edita cualquier pasador titular o sincroniza en vivo con la API oficial de ESPN para recalcular spreads y probabilidades.</p>
+                </div>
+                <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+                    <button class="btn-primary" id="btn-sync-espn" style="background:var(--accent-indigo); width:auto; padding:0.6rem 1.2rem;">🔄 Sincronizar con ESPN</button>
+                    <button class="btn-primary" id="btn-save-rosters" style="width:auto; padding:0.6rem 1.2rem;">💾 Guardar y Recalcular</button>
+                </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem;" id="rosters-grid">
+                <!-- Injected via JavaScript -->
+            </div>
+        </section>
+
+        <!-- VIEW 5: CUSTOM GAME SIMULATOR -->
+        <section id="view-simulator" class="view-section">
+            <div class="controls-bar">
+                <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Simulador Personalizado de Partidos con Inteligencia Artificial</h2>
+            </div>
+
+            <div class="simulator-box">
+                <div class="sim-grid">
+                    <div class="form-group">
+                        <label>Equipo Local (Home)</label>
+                        <select class="form-control" id="sim-home-team"></select>
+                    </div>
+                    <div class="form-group">
+                        <label>Equipo Visitante (Away)</label>
+                        <select class="form-control" id="sim-away-team"></select>
+                    </div>
+                    <div class="form-group">
+                        <label>Línea de Las Vegas (Spread)</label>
+                        <input type="number" step="0.5" class="form-control" id="sim-vegas-spread" value="3.0">
+                    </div>
+                    <div class="form-group">
+                        <label>Viento Pronosticado (mph)</label>
+                        <input type="number" step="1" class="form-control" id="sim-wind" value="8">
+                    </div>
+                    <div class="form-group">
+                        <label>Temperatura (°F)</label>
+                        <input type="number" step="1" class="form-control" id="sim-temp" value="65">
+                    </div>
+                    <div class="form-group">
+                        <label>Tipo de Estadio</label>
+                        <select class="form-control" id="sim-dome">
+                            <option value="0">Estadio Abierto (Outdoors)</option>
+                            <option value="1">Domo / Techo Cerrado</option>
+                        </select>
+                    </div>
+                    <div class="form-group" style="grid-column: span 2;">
+                        <label>Diferencial de Días de Descanso (Local - Visitante)</label>
+                        <input type="number" step="1" class="form-control" id="sim-rest" value="0">
+                    </div>
+                </div>
+                <button class="btn-primary" id="btn-run-sim">Simular Partido con IA</button>
+
+                <!-- Simulation Output -->
+                <div id="sim-result-box" style="display:none; margin-top:2rem;"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal Dialog (Matchup Deep Dive) -->
+    <div class="modal-overlay" id="matchup-modal" onclick="if(event.target === this) closeModal()">
+        <div class="modal-card">
+            <button class="modal-close" onclick="closeModal()">✕</button>
+            <h3 id="modal-title" style="font-family:var(--font-display); font-size:1.35rem; margin-bottom:1.5rem;"></h3>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <!-- JavaScript Application Logic -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
