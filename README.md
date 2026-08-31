@@ -1,4 +1,4 @@
-# 🏈 NFL Gridiron AI Predictor — Machine Learning Spread & Value Betting Engine
+# NFL AI Predictor — Machine Learning Spread & Value Betting Engine
 
 Un sistema predictivo avanzado de Machine Learning y analítica cuantitativa para modelar el **Spread (margen de puntos)**, la **probabilidad de victoria** y detectar apuestas con valor esperado positivo (**+EV Picks**) en la NFL.
 
