@@ -10,7 +10,7 @@ ROSTERS_FILE = Path(__file__).resolve().parent.parent / "data" / "active_starter
 DEFAULT_2026_STARTERS: Dict[str, str] = {
     # AFC East
     "BUF": "J.Allen",
-    "MIA": "T.Tagovailoa",
+    "MIA": "M.Willis",
     "NYJ": "G.Smith",        # Geno Smith with NY Jets
     "NE": "D.Maye",          # Drake Maye
     
@@ -18,25 +18,25 @@ DEFAULT_2026_STARTERS: Dict[str, str] = {
     "BAL": "L.Jackson",
     "CIN": "J.Burrow",
     "CLE": "D.Watson",
-    "PIT": "R.Wilson",
+    "PIT": "A.Rodgers",
     
     # AFC South
     "HOU": "C.Stroud",
-    "IND": "A.Richardson",
+    "IND": "D.Jones",
     "JAX": "T.Lawrence",
-    "TEN": "W.Levis",
+    "TEN": "C.Ward",
     
     # AFC West
     "KC": "P.Mahomes",
     "LAC": "J.Herbert",
     "DEN": "B.Nix",
-    "LV": "G.Minshew",
+    "LV": "K.Cousins",
     
     # NFC East
     "PHI": "J.Hurts",
     "WAS": "J.Daniels",
     "DAL": "D.Prescott",
-    "NYG": "D.Jones",
+    "NYG": "J.Dart",
     
     # NFC North
     "DET": "J.Goff",
@@ -45,16 +45,16 @@ DEFAULT_2026_STARTERS: Dict[str, str] = {
     "MIN": "J.McCarthy",
     
     # NFC South
-    "ATL": "K.Cousins",
+    "ATL": "T.Tagovailoa",
     "TB": "B.Mayfield",
-    "NO": "D.Carr",
+    "NO": "T.Shough",
     "CAR": "B.Young",
     
     # NFC West
     "LA": "M.Stafford",      # Los Angeles Rams (Top Contender)
     "SF": "B.Purdy",
     "SEA": "S.Darnold",      # Sam Darnold with Seattle Seahawks
-    "ARI": "K.Murray",
+    "ARI": "J.Brissett",
 }
 
 
