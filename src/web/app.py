@@ -193,6 +193,29 @@ def sync_rosters_espn_api():
     return {"status": "success", "starters": clean_map}
 
 
+@app.get("/api/rosters/full")
+def get_full_rosters_api():
+    """Returns the complete 2026 NFL rosters for all 32 teams from ESPN."""
+    import json
+    rosters_file = Path(__file__).resolve().parent.parent.parent / "data" / "nfl_rosters_2026.json"
+    if rosters_file.exists():
+        with open(rosters_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+@app.post("/api/rosters/sync-full-espn")
+def sync_full_espn_rosters_api():
+    """Fetches full live 2026 rosters and stars for all 32 teams from ESPN API."""
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+    from scripts.fetch_espn_full_rosters import fetch_all_espn_rosters
+    rosters = fetch_all_espn_rosters()
+    engine.fit_production_models()
+    return {"status": "success", "teams_count": len(rosters)}
+
+
 class SimulationRequest(BaseModel):
     home_team: str
     away_team: str
