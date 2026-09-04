@@ -229,6 +229,138 @@ def simulate_game(req: SimulationRequest):
     return predictions[0].to_dict()
 
 
+from ..features.player_impact import (
+    load_star_players,
+    load_injury_status,
+    save_injury_status,
+    calculate_matchup_star_impact,
+)
+from ..models.monte_carlo import MonteCarloSimulator
+
+mc_simulator = MonteCarloSimulator(num_iterations=10000)
+
+
+@app.get("/api/stars")
+def get_stars_api():
+    """Returns catalog of star players and current injury statuses."""
+    catalog = load_star_players()
+    injuries = load_injury_status()
+    return {"stars": catalog, "injuries": injuries}
+
+
+class InjuryUpdateRequest(BaseModel):
+    player_name: str
+    status: str  # ACTIVE, QUESTIONABLE, DOUBTFUL, OUT
+
+
+@app.post("/api/stars/injury")
+def update_injury_api(req: InjuryUpdateRequest):
+    """Updates injury status of a star player."""
+    injuries = load_injury_status()
+    injuries[req.player_name] = req.status.upper()
+    save_injury_status(injuries)
+    return {"status": "success", "injuries": injuries}
+
+
+@app.get("/api/monte-carlo/{game_id}")
+def get_game_monte_carlo(game_id: str, season: int = 2026, week: int = 1):
+    """Executes 10,000-iteration Monte Carlo simulation for a specific game."""
+    schedules = load_schedules([season])
+    matches = schedules[(schedules["week"] == week) & (schedules["game_id"] == game_id)]
+    if len(matches) == 0:
+        # Try matching by substring (e.g. 2026_01_DEN_KC)
+        matches = schedules[schedules["game_id"].str.contains(game_id, case=False, na=False)]
+    if len(matches) == 0:
+        return JSONResponse(status_code=404, content={"error": f"Game {game_id} not found."})
+
+    row = matches.iloc[0]
+    h_t = row["home_team"]
+    a_t = row["away_team"]
+    v_sp = float(row.get("spread_line", 0.0) or 0.0)
+    v_tot = float(row.get("total_line", 44.5) or 44.5)
+
+    h_priors = engine.team_priors.get(h_t, {})
+    a_priors = engine.team_priors.get(a_t, {})
+
+    h_pass_net = h_priors.get("adj_off_pass_epa", 0.0) - a_priors.get("adj_def_pass_epa_allowed", 0.0)
+    h_rush_net = h_priors.get("adj_off_rush_epa", 0.0) - a_priors.get("adj_def_rush_epa_allowed", 0.0)
+    h_net_epa = (0.60 * h_pass_net) + (0.40 * h_rush_net)
+
+    a_pass_net = a_priors.get("adj_off_pass_epa", 0.0) - h_priors.get("adj_def_pass_epa_allowed", 0.0)
+    a_rush_net = a_priors.get("adj_off_rush_epa", 0.0) - h_priors.get("adj_def_rush_epa_allowed", 0.0)
+    a_net_epa = (0.60 * a_pass_net) + (0.40 * a_rush_net)
+
+    star_impact = calculate_matchup_star_impact(h_t, a_t)
+
+    sim_res = mc_simulator.simulate_game(
+        home_team=h_t,
+        away_team=a_t,
+        home_net_epa=h_net_epa,
+        away_net_epa=a_net_epa,
+        home_pass_epa=h_pass_net,
+        away_pass_epa=a_pass_net,
+        vegas_spread=v_sp,
+        vegas_total=v_tot,
+        star_spread_adj=star_impact["star_spread_adjustment"],
+        star_total_adj=star_impact["star_total_adjustment"],
+        wind_speed=float(row.get("wind", 7.0) or 7.0),
+        is_dome=1 if row.get("roof") in ["dome", "closed"] else 0,
+    )
+
+    res_dict = sim_res.__dict__.copy()
+    res_dict["star_impact"] = star_impact
+    return res_dict
+
+
+class CustomMCSimulationRequest(BaseModel):
+    home_team: str
+    away_team: str
+    vegas_spread: float = 0.0
+    vegas_total: float = 44.5
+    wind_speed: float = 7.0
+    temperature: float = 68.0
+    is_dome: int = 0
+    num_iterations: int = 10000
+
+
+@app.post("/api/simulate-monte-carlo")
+def simulate_custom_monte_carlo(req: CustomMCSimulationRequest):
+    """Executes Monte Carlo simulation for any hypothetical matchup."""
+    h_priors = engine.team_priors.get(req.home_team, {})
+    a_priors = engine.team_priors.get(req.away_team, {})
+
+    h_pass_net = h_priors.get("adj_off_pass_epa", 0.0) - a_priors.get("adj_def_pass_epa_allowed", 0.0)
+    h_rush_net = h_priors.get("adj_off_rush_epa", 0.0) - a_priors.get("adj_def_rush_epa_allowed", 0.0)
+    h_net_epa = (0.60 * h_pass_net) + (0.40 * h_rush_net)
+
+    a_pass_net = a_priors.get("adj_off_pass_epa", 0.0) - h_priors.get("adj_def_pass_epa_allowed", 0.0)
+    a_rush_net = a_priors.get("adj_off_rush_epa", 0.0) - h_priors.get("adj_def_rush_epa_allowed", 0.0)
+    a_net_epa = (0.60 * a_pass_net) + (0.40 * a_rush_net)
+
+    star_impact = calculate_matchup_star_impact(req.home_team, req.away_team)
+
+    custom_sim = MonteCarloSimulator(num_iterations=req.num_iterations)
+    sim_res = custom_sim.simulate_game(
+        home_team=req.home_team,
+        away_team=req.away_team,
+        home_net_epa=h_net_epa,
+        away_net_epa=a_net_epa,
+        home_pass_epa=h_pass_net,
+        away_pass_epa=a_pass_net,
+        vegas_spread=req.vegas_spread,
+        vegas_total=req.vegas_total,
+        star_spread_adj=star_impact["star_spread_adjustment"],
+        star_total_adj=star_impact["star_total_adjustment"],
+        wind_speed=req.wind_speed,
+        is_dome=req.is_dome,
+        temperature=req.temperature,
+    )
+
+    res_dict = sim_res.__dict__.copy()
+    res_dict["star_impact"] = star_impact
+    return res_dict
+
+
 # Serve Static UI
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
 

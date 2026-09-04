@@ -36,11 +36,14 @@
                 <button class="nav-btn" data-view="benchmark">
                     <span>📊</span> Model Lab
                 </button>
+                <button class="nav-btn" data-view="monte-carlo">
+                    <span>🎲</span> Monte Carlo (10k)
+                </button>
                 <button class="nav-btn" data-view="rosters">
                     <span>👥</span> Plantillas & QBs
                 </button>
                 <button class="nav-btn" data-view="simulator">
-                    <span>🎲</span> Simulador IA
+                    <span>⚙️</span> Simulador Custom
                 </button>
             </nav>
         </div>
@@ -156,7 +159,94 @@
             </div>
         </section>
 
-        <!-- VIEW 4: ACTIVE ROSTERS & QB MANAGER -->
+        <!-- VIEW 4: MONTE CARLO SIMULATION (10,000 ITERATIONS) -->
+        <section id="view-monte-carlo" class="view-section">
+            <div class="controls-bar">
+                <div>
+                    <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Simulación Monte Carlo (10,000 Iteraciones por Partido)</h2>
+                    <p style="font-size:0.8rem; color:var(--text-muted);">Modelado estocástico basado en posesiones, distribución discreta de puntos y mercado de Totales (Over/Under).</p>
+                </div>
+                <div style="display:flex; gap:0.6rem; align-items:center; flex-wrap:wrap;">
+                    <select id="mc-game-select" class="form-control" style="width: 220px; font-weight:700;"></select>
+                    <button class="btn-primary" id="btn-run-mc" style="width:auto; padding:0.6rem 1.4rem;">🎲 Simular 10k</button>
+                </div>
+            </div>
+
+            <!-- MC Result Container -->
+            <div id="mc-result-container" style="display:none;">
+                <!-- Summary Banner -->
+                <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+                    <div class="kpi-card highlight">
+                        <div class="kpi-title">Marcador Medio Simulado</div>
+                        <div class="kpi-value" id="mc-score-val" style="font-size:1.5rem;">--</div>
+                        <div class="kpi-sub" id="mc-win-prob-sub">Probabilidad de victoria: --</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-title">Spread Mediano Proyectado</div>
+                        <div class="kpi-value" id="mc-spread-val" style="color:var(--accent-cyan);">--</div>
+                        <div class="kpi-sub" id="mc-spread-sub">Línea Vegas: --</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-title">Recomendación Over / Under</div>
+                        <div class="kpi-value" id="mc-total-pick" style="font-size:1.3rem; color:var(--accent-emerald);">--</div>
+                        <div class="kpi-sub" id="mc-total-sub">Total Vegas: --</div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-title">Impacto de Estelares (Lesiones)</div>
+                        <div class="kpi-value" id="mc-star-impact-val" style="font-size:1.3rem;">0.0 pts</div>
+                        <div class="kpi-sub" id="mc-star-impact-sub">Ajuste neto en el spread</div>
+                    </div>
+                </div>
+
+                <!-- Two Column Analysis Grid -->
+                <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;" class="mc-grid-responsive">
+                    <!-- Left: Odds, Key Numbers & Exact Scores -->
+                    <div style="display:flex; flex-direction:column; gap:1.2rem;">
+                        <!-- Over/Under & Teaser Card -->
+                        <div style="background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-md); padding:1.2rem;">
+                            <h3 style="font-size:1rem; font-family:var(--font-display); margin-bottom:0.8rem;">📊 Mercado de Totales & Teasers (+6.0 pts)</h3>
+                            <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin-bottom:1rem;">
+                                <div style="background:var(--bg-glass); padding:0.75rem; border-radius:8px;">
+                                    <div style="font-size:0.75rem; color:var(--text-muted);">Probabilidad OVER</div>
+                                    <div style="font-size:1.2rem; font-weight:800; color:var(--accent-cyan);" id="mc-over-prob">--%</div>
+                                </div>
+                                <div style="background:var(--bg-glass); padding:0.75rem; border-radius:8px;">
+                                    <div style="font-size:0.75rem; color:var(--text-muted);">Probabilidad UNDER</div>
+                                    <div style="font-size:1.2rem; font-weight:800; color:var(--accent-indigo);" id="mc-under-prob">--%</div>
+                                </div>
+                            </div>
+                            <div style="font-size:0.82rem; color:var(--text-secondary); line-height:1.4;" id="mc-teaser-info"></div>
+                        </div>
+
+                        <!-- Key Numbers Card -->
+                        <div style="background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-md); padding:1.2rem;">
+                            <h3 style="font-size:1rem; font-family:var(--font-display); margin-bottom:0.8rem;">🎯 Números Clave de la NFL (Frecuencia de Margen Exacto)</h3>
+                            <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem;" id="mc-key-numbers-grid"></div>
+                        </div>
+
+                        <!-- Top Exact Scores -->
+                        <div style="background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-md); padding:1.2rem;">
+                            <h3 style="font-size:1rem; font-family:var(--font-display); margin-bottom:0.8rem;">🏆 Marcadores Exactos Más Frecuentes</h3>
+                            <div id="mc-top-scores-list" style="display:flex; flex-direction:column; gap:0.4rem;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Right: Star Players & Injury Management -->
+                    <div style="background:var(--bg-card); border:1px solid var(--border-subtle); border-radius:var(--radius-md); padding:1.2rem;">
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
+                            <h3 style="font-size:1.05rem; font-family:var(--font-display);">🌟 Jugadores Estelares & Bajas por Lesión</h3>
+                            <span class="badge-green" style="font-size:0.7rem;">Non-QB Impact Engine</span>
+                        </div>
+                        <p style="font-size:0.78rem; color:var(--text-muted); margin-bottom:1rem;">
+                            Cambia el estado de cualquier jugador estelar para simular bajas de receptores élite (WR1), cazadores de cabezas (EDGE) o profundos.
+                        </p>
+                        <div id="mc-stars-container" style="display:flex; flex-direction:column; gap:0.8rem;"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 5: ACTIVE ROSTERS & QB MANAGER -->
         <section id="view-rosters" class="view-section">
             <div class="controls-bar">
                 <div>
