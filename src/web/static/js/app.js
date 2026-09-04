@@ -346,6 +346,28 @@ function renderRostersGrid() {
 function initRosterManager() {
     const saveBtn = document.getElementById('btn-save-rosters');
     const syncBtn = document.getElementById('btn-sync-espn');
+    const syncFullBtn = document.getElementById('btn-sync-full-rosters');
+
+    if (syncFullBtn) {
+        syncFullBtn.addEventListener('click', async () => {
+            syncFullBtn.textContent = '⏳ Descargando 32 Rosters de ESPN...';
+            syncFullBtn.disabled = true;
+
+            try {
+                const res = await fetch('/api/rosters/sync-full-espn', { method: 'POST' });
+                const data = await res.json();
+                await loadDashboardData();
+                await loadRosters();
+                alert(`✅ ¡Rosters completos actualizados para los ${data.teams_count} equipos directamente desde ESPN!`);
+            } catch (e) {
+                console.error("Error syncing full rosters:", e);
+                alert('❌ Error al sincronizar plantillas completas con ESPN.');
+            } finally {
+                syncFullBtn.textContent = '⚡ Sincronizar Rosters Completos (ESPN)';
+                syncFullBtn.disabled = false;
+            }
+        });
+    }
 
     if (syncBtn) {
         syncBtn.addEventListener('click', async () => {
