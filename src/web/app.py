@@ -204,6 +204,17 @@ def get_full_rosters_api():
     return {}
 
 
+@app.get("/api/depthcharts")
+def get_depthcharts_api():
+    """Returns the official 2026 titular depth charts (Slot 1 starters) for all 32 teams."""
+    import json
+    dc_file = Path(__file__).resolve().parent.parent.parent / "data" / "official_depthcharts_2026.json"
+    if dc_file.exists():
+        with open(dc_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
 @app.post("/api/rosters/sync-full-espn")
 def sync_full_espn_rosters_api():
     """Fetches full live 2026 rosters and stars for all 32 teams from ESPN API."""

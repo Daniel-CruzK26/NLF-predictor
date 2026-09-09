@@ -135,50 +135,9 @@ def fetch_all_espn_rosters() -> Dict[str, Any]:
         json.dump(full_rosters, f, indent=2)
     print(f"💾 Saved full rosters to {ROSTERS_FILE}")
 
-    # Build updated star_players.json from real live rosters
-    print("\n⭐ [2/2] Updating star_players.json with verified current team rosters...")
-    cur_stars = {}
-    
-    # Priority positions to select as team stars
-    for abbr, r in full_rosters.items():
-        team_stars = []
-        # Key offensive positions: WR, RB, TE
-        off_key_pos = ["WR", "TE", "RB"]
-        def_key_pos = ["DE", "DT", "CB", "S", "LB"]
-
-        # Pick top players by position currently on the team
-        for p in r.get("offense", []):
-            pos = p.get("pos")
-            if pos in off_key_pos and len([s for s in team_stars if s["pos"] == pos]) < 2:
-                team_stars.append({
-                    "name": p["name"],
-                    "pos": pos,
-                    "unit": "offense",
-                    "value_pts": POS_STAR_VALUES.get(pos, 1.2),
-                })
-            if len(team_stars) >= 3:
-                break
-
-        # Pick top defensive players
-        def_count = 0
-        for p in r.get("defense", []):
-            pos = p.get("pos")
-            if pos in def_key_pos and def_count < 3:
-                team_stars.append({
-                    "name": p["name"],
-                    "pos": pos,
-                    "unit": "defense",
-                    "value_pts": POS_STAR_VALUES.get(pos, 1.2),
-                })
-                def_count += 1
-            if def_count >= 3:
-                break
-
-        cur_stars[abbr] = team_stars
-
-    with open(STAR_PLAYERS_FILE, "w", encoding="utf-8") as f:
-        json.dump(cur_stars, f, indent=2)
-    print(f"💾 Updated {STAR_PLAYERS_FILE} with 100% verified current rosters.")
+    # Update star_players.json and depth charts using official depth charts
+    from scripts.fetch_official_depthcharts import update_official_starters
+    update_official_starters()
 
     return full_rosters
 
