@@ -1,1072 +1,1014 @@
 {
-  "CIN": [
+  "ATL": [
     {
-      "name": "Erick All Jr.",
+      "name": "Drake London",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Jahan Dotson",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Kyle Pitts Sr.",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Tahj Brooks",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Chase Brown",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Jonathan Allen",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Jordan Battle",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Swayze Bozeman",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    }
-  ],
-  "ATL": [
-    {
-      "name": "Chris Blair",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Zachariah Branch",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Austin Hooper",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Yasir Abdullah",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Jessie Bates III",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Billy Bowman Jr.",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "CLE": [
-    {
-      "name": "Isaiah Bond",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Denzel Boston",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Harold Fannin Jr.",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Derek Barnett",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Mekhi Blackmon",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Tyson Campbell",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "BUF": [
-    {
-      "name": "Skyler Bell",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "James Cook III",
+      "name": "Bijan Robinson",
       "pos": "RB",
       "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.3
     },
     {
-      "name": "Dee Alford",
+      "name": "LaCale London",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Brandon Dorlus",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "A.J. Terrell Jr.",
       "pos": "CB",
       "unit": "defense",
-      "value_pts": 1.2
+      "value_pts": 1.5
     },
     {
-      "name": "Joe Andreessen",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Christian Benford",
+      "name": "Mike Hughes",
       "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "DEN": [
-    {
-      "name": "Nate Adkins",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Tyler Badie",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Dallen Bentley",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Kris Abrams-Draine",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Zach Allen",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Tycen Anderson",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    }
-  ],
-  "DET": [
-    {
-      "name": "Tyler Conklin",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Jahmyr Gibbs",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Justin Jackson",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Keith Abney II",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Derrick Barnes",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Jack Campbell",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    }
-  ],
-  "DAL": [
-    {
-      "name": "Camden Brown",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Malik Davis",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Emari Demercado",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Jaishawn Barham",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Markquese Bell",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "DaRon Bland",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "CHI": [
-    {
-      "name": "Luther Burden III",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Roschon Johnson",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Cole Kmet",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Josh Blackwell",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Austin Booker",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Devin Bush",
-      "pos": "LB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "TEN": [
     {
-      "name": "Elic Ayomanor",
+      "name": "Carnell Tate",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Daniel Bellinger",
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Gunnar Helm",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.3
     },
     {
-      "name": "Julius Chestnut",
+      "name": "Tony Pollard",
       "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "John Franklin-Myers",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jermaine Johnson II",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Cor'Dale Flott",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Alontae Taylor",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "DAL": [
+    {
+      "name": "CeeDee Lamb",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "George Pickens",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Tony Adams",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
-      "name": "Cody Barton",
-      "pos": "LB",
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Quinnen Williams",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Kenny Clark",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Cobie Durant",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "DaRon Bland",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
+    }
+  ],
+  "DEN": [
+    {
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
     },
     {
-      "name": "Terrell Burgess",
-      "pos": "S",
+      "name": "Courtland Sutton",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Evan Engram",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "J.K. Dobbins",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Malcolm Roach",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
+      "value_pts": 1.6
+    },
+    {
+      "name": "Zach Allen",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Pat Surtain II",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Riley Moss",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "DET": [
+    {
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Aidan Hutchinson",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "DJ Wonnum",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "D.J. Reed",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Keith Abney II",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "CLE": [
+    {
+      "name": "Jerry Jeudy",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "KC Concepcion",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Harold Fannin Jr.",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Quinshon Judkins",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Isaiah McGuire",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jared Verse",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Denzel Ward",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Tyson Campbell",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "CHI": [
+    {
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Luther Burden III",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Montez Sweat",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Dayo Odeyingbo",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jaylon Johnson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Tyrique Stevenson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "CIN": [
+    {
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Chase Brown",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Boye Mafe",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Myles Murphy",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Dax Hill",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "DJ Turner II",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "BUF": [
+    {
+      "name": "DJ Moore",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Khalil Shakir",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "James Cook III",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "T.J. Sanders",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Ed Oliver",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Christian Benford",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Maxwell Hairston",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
     }
   ],
   "GB": [
     {
-      "name": "Chris Brooks",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Matthew Golden",
+      "name": "Christian Watson",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Josh Jacobs",
-      "pos": "RB",
+      "name": "Jayden Reed",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Warren Brinson",
-      "pos": "DT",
-      "unit": "defense",
+      "name": "Tucker Kraft",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "unit": "offense",
       "value_pts": 1.3
     },
     {
       "name": "Karl Brooks",
-      "pos": "DT",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.3
+      "value_pts": 1.6
     },
     {
-      "name": "Javon Bullard",
-      "pos": "S",
+      "name": "Devonte Wyatt",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
+      "value_pts": 1.6
+    },
+    {
+      "name": "Keisean Nixon",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Brandon Cisse",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
     }
   ],
-  "LA": [
+  "LV": [
     {
-      "name": "Davante Adams",
+      "name": "Tre Tucker",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Davis Allen",
-      "pos": "TE",
+      "name": "Jalen Nailor",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Tutu Atwell",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Wesley Bailey",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Kam Curl",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Tyler Davis",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    }
-  ],
-  "IND": [
-    {
-      "name": "Mo Alie-Cox",
+      "name": "Brock Bowers",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Keenan Allen",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Deion Burks",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Adetomiwa Adebawore",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Austin Ajiake",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
-      "name": "CJ Allen",
-      "pos": "LB",
+      "name": "Jonah Laulu",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Tonka Hemingway",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Eric Stokes",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Darien Porter",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "KC": [
     {
-      "name": "Cyrus Allen",
+      "name": "Rashee Rice",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Jake Briningstool",
-      "pos": "TE",
+      "name": "Xavier Worthy",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Noah Gray",
+      "name": "Travis Kelce",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.3
+    },
+    {
+      "name": "Kenneth Walker III",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "George Karlaftis",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
     },
     {
       "name": "Felix Anudike-Uzomah",
-      "pos": "DE",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.4
+      "value_pts": 1.6
     },
     {
-      "name": "Jeffrey Bassa",
-      "pos": "LB",
+      "name": "L'Jarius Sneed",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Mansoor Delane",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
+    }
+  ],
+  "IND": [
+    {
+      "name": "Alec Pierce",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
     },
     {
-      "name": "Nick Bolton",
-      "pos": "LB",
+      "name": "Josh Downs",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Tyler Warren",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Arden Key",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Laiatu Latu",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Sauce Gardner",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Charvarius Ward",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "LA": [
+    {
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Davante Adams",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Colby Parkinson",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Kyren Williams",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Kobie Turner",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Aaron Donald",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jaylen Watson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Trent McDuffie",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "MIN": [
     {
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
       "name": "Jordan Addison",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.2
     },
     {
-      "name": "Gavin Bartholomew",
+      "name": "T.J. Hockenson",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Caleb Banks",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Blake Cashman",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
+      "name": "Aaron Jones Sr.",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
-      "name": "Chaz Chambliss",
-      "pos": "LB",
+      "name": "Levi Drake Rodriguez",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jalen Redmond",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Charles Demmings",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "James Pierre",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "NYJ": [
+    {
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Breece Hall",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Kingsley Enagbare",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Will McDonald IV",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Nahshon Wright",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Brandon Stephens",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "NYG": [
+    {
+      "name": "Malik Nabers",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Shelby Harris",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Chauncey Golston",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Deonte Banks",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Greg Newsome II",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "MIA": [
     {
+      "name": "Malik Washington",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Greg Dulcich",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
       "name": "De'Von Achane",
       "pos": "RB",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Chris Bell",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Kevin Coleman Jr.",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Zayne Anderson",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Robert Beal Jr.",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Zeek Biggers",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    }
-  ],
-  "LV": [
-    {
-      "name": "Jack Bech",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Malik Benson",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Brock Bowers",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Thomas Booker IV",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Adam Butler",
-      "pos": "DT",
+      "name": "Chop Robinson",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.3
+      "value_pts": 1.6
     },
     {
-      "name": "Jeremy Chinn",
-      "pos": "S",
+      "name": "Josh Uche",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jason Marshall Jr.",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "JuJu Brents",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
     }
   ],
   "NE": [
     {
-      "name": "Tanner Arkin",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
       "name": "A.J. Brown",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Efton Chism III",
+      "name": "Romeo Doubs",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.2
+    },
+    {
+      "name": "Hunter Henry",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Rhamondre Stevenson",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
       "name": "Christian Barmore",
-      "pos": "DT",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.3
+      "value_pts": 1.6
     },
     {
-      "name": "Kevin Byard",
-      "pos": "S",
+      "name": "Milton Williams",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
+      "value_pts": 1.6
     },
     {
-      "name": "Channing Canada",
+      "name": "Carlton Davis III",
       "pos": "CB",
       "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "NYG": [
-    {
-      "name": "Odell Beckham Jr.",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.5
     },
     {
-      "name": "Thomas Fidone II",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Malachi Fields",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Paulson Adebo",
+      "name": "Christian Gonzalez",
       "pos": "CB",
       "unit": "defense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Darius Alexander",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Deonte Banks",
-      "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
+      "value_pts": 1.1
     }
   ],
   "NO": [
     {
-      "name": "Barion Brown",
+      "name": "Chris Olave",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Oscar Delp",
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Juwan Johnson",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Audric Estime",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Julian Blackmon",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Khristian Boyd",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Vernon Broughton",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    }
-  ],
-  "NYJ": [
-    {
-      "name": "Braelon Allen",
+      "name": "Travis Etienne Jr.",
       "pos": "RB",
       "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Omar Cooper Jr.",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Isaiah Davis",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "David Bailey",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Dane Belton",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    },
-    {
-      "name": "Jowon Briggs",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    }
-  ],
-  "PHI": [
-    {
-      "name": "Saquon Barkley",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Tank Bigsby",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Hollywood Brown",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Zack Baun",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Jihaad Campbell",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Jalen Carter",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    }
-  ],
-  "PIT": [
-    {
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Rico Dowdle",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Pat Freiermuth",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Keeanu Benton",
-      "pos": "DT",
-      "unit": "defense",
       "value_pts": 1.3
     },
     {
-      "name": "Yahya Black",
-      "pos": "DE",
+      "name": "Cameron Jordan",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.4
+      "value_pts": 1.6
     },
     {
-      "name": "Jaquan Brisker",
-      "pos": "S",
+      "name": "Colby Wooden",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
-    }
-  ],
-  "LAC": [
-    {
-      "name": "Derius Davis",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.6
     },
     {
-      "name": "Oronde Gadsden",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Omarion Hampton",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Nick Barrett",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Jamaree Caldwell",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Bud Dupree",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    }
-  ],
-  "SF": [
-    {
-      "name": "Brandon Aiyuk",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Kaelon Black",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Jacob Cowing",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Tatum Bethune",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Nick Bosa",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Ji'Ayir Brown",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    }
-  ],
-  "JAX": [
-    {
-      "name": "Ameer Abdullah",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "LeQuint Allen Jr.",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Nate Boerkircher",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Arik Armstead",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Christian Braswell",
+      "name": "Kool-Aid McKinstry",
       "pos": "CB",
       "unit": "defense",
-      "value_pts": 1.2
+      "value_pts": 1.5
     },
     {
-      "name": "Montaric Brown",
+      "name": "Quincy Riley",
       "pos": "CB",
-      "unit": "defense",
-      "value_pts": 1.2
-    }
-  ],
-  "TB": [
-    {
-      "name": "Payne Durham",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Emeka Egbuka",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Kenny Gainwell",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Alex Anzalone",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "Rueben Bain Jr.",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
-    },
-    {
-      "name": "DeMonte Capehart",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    }
-  ],
-  "WAS": [
-    {
-      "name": "Kaytron Allen",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "John Bates",
-      "pos": "TE",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Dyami Brown",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Dorance Armstrong",
-      "pos": "DE",
-      "unit": "defense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Ricky Barber",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Percy Butler",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
-    }
-  ],
-  "CAR": [
-    {
-      "name": "Jonathon Brooks",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Jalen Coker",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "AJ Dillon",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
-      "name": "Derrick Brown",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Bobby Brown III",
-      "pos": "DT",
-      "unit": "defense",
-      "value_pts": 1.3
-    },
-    {
-      "name": "Claudin Cherelus",
-      "pos": "LB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "SEA": [
     {
-      "name": "Elijah Arroyo",
-      "pos": "TE",
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Rashid Shaheed",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
@@ -1074,37 +1016,199 @@
       "name": "AJ Barner",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.3
     },
     {
-      "name": "Montorie Foster Jr.",
-      "pos": "WR",
+      "name": "Jadarian Price",
+      "pos": "RB",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.3
     },
     {
-      "name": "Terrion Arnold",
+      "name": "Leonard Williams",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jarran Reed",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Devon Witherspoon",
       "pos": "CB",
       "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Josh Jobe",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "SF": [
+    {
+      "name": "Mike Evans",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Deebo Samuel Sr.",
+      "pos": "WR",
+      "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Nick Emmanwori",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
+      "name": "George Kittle",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
-      "name": "Dante Fowler Jr.",
-      "pos": "LB",
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Keion White",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Nick Bosa",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Renardo Green",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Deommodore Lenoir",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "CAR": [
+    {
+      "name": "Tetairoa McMillan",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Jalen Coker",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Tommy Tremble",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Derrick Brown",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Bobby Brown III",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Mike Jackson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Jaycee Horn",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "JAX": [
+    {
+      "name": "Brian Thomas Jr.",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Parker Washington",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Brenton Strange",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Bhayshul Tuten",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Travon Walker",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Josh Hines-Allen",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Travis Hunter",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Montaric Brown",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "BAL": [
     {
-      "name": "Rasheen Ali",
-      "pos": "RB",
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Rashod Bateman",
+      "pos": "WR",
       "unit": "offense",
       "value_pts": 1.2
     },
@@ -1112,107 +1216,387 @@
       "name": "Mark Andrews",
       "pos": "TE",
       "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.3
     },
     {
-      "name": "Rashod Bateman",
-      "pos": "WR",
+      "name": "Derrick Henry",
+      "pos": "RB",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.3
     },
     {
-      "name": "Chidobe Awuzie",
+      "name": "Nnamdi Madubuike",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Calais Campbell",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Nate Wiggins",
       "pos": "CB",
       "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Marlon Humphrey",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "ARI": [
+    {
+      "name": "Marvin Harrison Jr.",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "unit": "offense",
       "value_pts": 1.2
     },
     {
-      "name": "Teddye Buchanan",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
+      "name": "Trey McBride",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
-      "name": "Ethan Burke",
-      "pos": "LB",
+      "name": "Jeremiyah Love",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Josh Sweat",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Dante Stills",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Will Johnson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Denzel Burke",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
     }
   ],
   "HOU": [
     {
-      "name": "Kayshon Boutte",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "British Brooks",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
-    },
-    {
       "name": "Nico Collins",
       "pos": "WR",
       "unit": "offense",
-      "value_pts": 1.4
+      "value_pts": 1.7
     },
     {
-      "name": "Azeez Al-Shaair",
-      "pos": "LB",
-      "unit": "defense",
-      "value_pts": 1.1
+      "name": "Kayshon Boutte",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Dalton Schultz",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "David Montgomery",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
     },
     {
       "name": "Will Anderson Jr.",
-      "pos": "DE",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.4
+      "value_pts": 1.6
     },
     {
-      "name": "Reed Blankenship",
-      "pos": "S",
+      "name": "Danielle Hunter",
+      "pos": "EDGE",
       "unit": "defense",
-      "value_pts": 1.0
-    }
-  ],
-  "ARI": [
-    {
-      "name": "Tyler Allgeier",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
+      "value_pts": 1.6
     },
     {
-      "name": "Trey Benson",
-      "pos": "RB",
-      "unit": "offense",
-      "value_pts": 1.2
+      "name": "Derek Stingley Jr.",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
     },
     {
-      "name": "Kendrick Bourne",
-      "pos": "WR",
-      "unit": "offense",
-      "value_pts": 1.4
-    },
-    {
-      "name": "Eugene Asante",
-      "pos": "LB",
+      "name": "Kamari Lassiter",
+      "pos": "CB",
       "unit": "defense",
       "value_pts": 1.1
+    }
+  ],
+  "PIT": [
+    {
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
     },
     {
-      "name": "Budda Baker",
-      "pos": "S",
-      "unit": "defense",
-      "value_pts": 1.0
+      "name": "Michael Pittman Jr.",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
     },
     {
-      "name": "Andrew Billings",
-      "pos": "DT",
-      "unit": "defense",
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "unit": "offense",
       "value_pts": 1.3
+    },
+    {
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Derrick Harmon",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Cameron Heyward",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Joey Porter Jr.",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Jamel Dean",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "TB": [
+    {
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Cade Otton",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Calijah Kancey",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "A'Shawn Robinson",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Zyon McCollum",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Benjamin Morrison",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "LAC": [
+    {
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Charlie Kolar",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Omarion Hampton",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Teair Tart",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Jamaree Caldwell",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Cam Hart",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Donte Jackson",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "WAS": [
+    {
+      "name": "Terry McLaurin",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Stefon Diggs",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Tim Settle",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Javon Kinlaw",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Rasul Douglas",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Mike Sainristil",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
+    }
+  ],
+  "PHI": [
+    {
+      "name": "DeVonta Smith",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.7
+    },
+    {
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "unit": "offense",
+      "value_pts": 1.2
+    },
+    {
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Saquon Barkley",
+      "pos": "RB",
+      "unit": "offense",
+      "value_pts": 1.3
+    },
+    {
+      "name": "Jalen Carter",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Moro Ojomo",
+      "pos": "EDGE",
+      "unit": "defense",
+      "value_pts": 1.6
+    },
+    {
+      "name": "Riq Woolen",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.5
+    },
+    {
+      "name": "Quinyon Mitchell",
+      "pos": "CB",
+      "unit": "defense",
+      "value_pts": 1.1
     }
   ]
 }
