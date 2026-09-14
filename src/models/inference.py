@@ -244,38 +244,24 @@ class LiveInferenceEngine:
             a_adj_off_tot = a_priors.get("adj_off_total_epa", 0.0)
             h_adj_def_tot = h_priors.get("adj_def_total_epa_allowed", 0.0)
 
-            # Load Team Modifiers (e.g. Rams boost, Denver rise, coaching/roster upgrades)
-            mod_file = PROCESSED_DATA_DIR.parent / "team_modifiers.json"
-            team_mods = {}
-            if mod_file.exists():
-                try:
-                    import json
-                    with open(mod_file, "r") as f:
-                        team_mods = json.load(f)
-                except Exception:
-                    pass
-
-            h_mod = team_mods.get(h_team, 0.0)
-            a_mod = team_mods.get(a_team, 0.0)
-
             # QB features
             h_qb_stat = self.qb_priors.get(h_qb, {"composite": 0.0, "epa": 0.0, "cpoe": 0.0, "sack_rate": 0.06})
             a_qb_stat = self.qb_priors.get(a_qb, {"composite": 0.0, "epa": 0.0, "cpoe": 0.0, "sack_rate": 0.06})
 
             feat = {
                 "game_id": row["game_id"],
-                "elo_proj_spread": elo_proj_spread + (h_mod - a_mod),
-                "elo_diff_pre": (h_elo + hfa_val) - a_elo + ((h_mod - a_mod) * ELO_SPREAD_DIVISOR),
+                "elo_proj_spread": elo_proj_spread,
+                "elo_diff_pre": (h_elo + hfa_val) - a_elo,
                 "elo_prob_home_win": elo_prob_home,
-                "adj_net_epa_advantage": (h_adj_off_tot - a_adj_def_tot) - (a_adj_off_tot - h_adj_def_tot) + (h_mod - a_mod) * 0.8,
-                "adj_diff_pass_advantage": (h_adj_off_pass - a_adj_def_pass) - (a_adj_off_pass - h_adj_def_pass) + (h_mod - a_mod) * 0.4,
-                "adj_diff_rush_advantage": (h_adj_off_rush - a_adj_def_rush) - (a_adj_off_rush - h_adj_def_rush) + (h_mod - a_mod) * 0.2,
-                "home_adj_off_pass_epa": h_adj_off_pass + (h_mod * 0.03),
-                "away_adj_def_pass_epa_allowed": a_adj_def_pass - (a_mod * 0.03),
-                "home_adj_off_rush_epa": h_adj_off_rush + (h_mod * 0.02),
-                "away_adj_def_rush_epa_allowed": a_adj_def_rush - (a_mod * 0.02),
-                "home_adj_off_total_epa": h_adj_off_tot + (h_mod * 0.5),
-                "away_adj_def_total_epa_allowed": a_adj_def_tot - (a_mod * 0.5),
+                "adj_net_epa_advantage": (h_adj_off_tot - a_adj_def_tot) - (a_adj_off_tot - h_adj_def_tot),
+                "adj_diff_pass_advantage": (h_adj_off_pass - a_adj_def_pass) - (a_adj_off_pass - h_adj_def_pass),
+                "adj_diff_rush_advantage": (h_adj_off_rush - a_adj_def_rush) - (a_adj_off_rush - h_adj_def_rush),
+                "home_adj_off_pass_epa": h_adj_off_pass,
+                "away_adj_def_pass_epa_allowed": a_adj_def_pass,
+                "home_adj_off_rush_epa": h_adj_off_rush,
+                "away_adj_def_rush_epa_allowed": a_adj_def_rush,
+                "home_adj_off_total_epa": h_adj_off_tot,
+                "away_adj_def_total_epa_allowed": a_adj_def_tot,
                 "diff_qb_composite_score": h_qb_stat["composite"] - a_qb_stat["composite"],
                 "diff_qb_epa_per_dropback": h_qb_stat["epa"] - a_qb_stat["epa"],
                 "diff_qb_cpoe": h_qb_stat["cpoe"] - a_qb_stat["cpoe"],
