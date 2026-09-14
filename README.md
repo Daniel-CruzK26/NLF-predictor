@@ -83,7 +83,8 @@ pytest -v
 NFLpredictor/
 ├── data/                      # Datos procesados y configuraciones de rosters
 │   ├── active_starters.json   # QBs titulares activos por equipo
-│   ├── team_modifiers.json    # Calibraciones de Power Ratings
+│   ├── official_depthcharts_2026.json # Depth charts oficiales ESPN Slot 1
+│   ├── star_players.json      # Jugadores estelares no-QB y valores de reemplazo
 │   └── processed/             # Tablas intermedias de entrenamiento y predicción
 ├── scripts/                   # Scripts CLI ejecutables (Fases 1 a 6 y utilidades)
 │   ├── 01_fetch_and_aggregate.py
