@@ -1,0 +1,17 @@
+game_id,gameday,matchup,home_team,away_team,home_qb,away_qb,vegas_spread,model_spread,home_win_prob,away_win_prob,edge,recommendation,confidence,kelly_stake_pct,key_drivers
+2026_02_DET_BUF,2026-09-17,DET @ BUF,BUF,DET,J.Allen,J.Goff,3.0,4.87,69.7,30.3,1.87,BET BUF (-3.0),LOW (1★),2.19,Opponent-Adjusted EPA Advantage (BUF)
+2026_02_CAR_ATL,2026-09-20,CAR @ ATL,ATL,CAR,M.Penix,B.Young,1.5,1.98,58.4,41.6,0.48,PASS (No Edge),NO VALUE,0.0,Balanced Matchup
+2026_02_NO_BAL,2026-09-20,NO @ BAL,BAL,NO,L.Jackson,T.Shough,7.5,6.11,73.9,26.1,-1.39,PASS (No Edge),NO VALUE,0.0,Opponent-Adjusted EPA Advantage (BAL)
+2026_02_MIN_CHI,2026-09-20,MIN @ CHI,CHI,MIN,C.Williams,K.Murray,3.5,8.13,80.0,20.0,4.63,BET CHI (-3.5),HIGH (3★),7.25,Opponent-Adjusted EPA Advantage (CHI) | Market Discrepancy (+4.6 pts Edge)
+2026_02_CIN_HOU,2026-09-20,CIN @ HOU,HOU,CIN,C.Stroud,J.Burrow,2.5,-1.38,44.2,55.8,-3.88,BET CIN (+2.5),HIGH (3★),5.87,Opponent-Adjusted EPA Advantage (CIN) | Market Discrepancy (+3.9 pts Edge)
+2026_02_PIT_NE,2026-09-20,PIT @ NE,NE,PIT,D.Maye,A.Rodgers,4.5,1.98,58.4,41.6,-2.52,BET PIT (+4.5),MEDIUM (2★),3.39,Market Discrepancy (+2.5 pts Edge)
+2026_02_GB_NYJ,2026-09-20,GB @ NYJ,NYJ,GB,G.Smith,J.Love,-5.5,-5.25,29.0,71.0,0.25,PASS (No Edge),NO VALUE,0.0,Opponent-Adjusted EPA Advantage (GB)
+2026_02_CLE_TB,2026-09-20,CLE @ TB,TB,CLE,B.Mayfield,D.Watson,5.5,11.66,88.0,12.0,6.16,BET TB (-5.5),HIGH (3★),10.07,Opponent-Adjusted EPA Advantage (TB) | Market Discrepancy (+6.2 pts Edge)
+2026_02_PHI_TEN,2026-09-20,PHI @ TEN,TEN,PHI,C.Ward,J.Hurts,-4.5,0.86,53.7,46.3,5.36,BET TEN (+4.5),HIGH (3★),8.6,Opponent-Adjusted EPA Advantage (TEN) | Market Discrepancy (+5.4 pts Edge)
+2026_02_JAX_DEN,2026-09-20,JAX @ DEN,DEN,JAX,B.Nix,T.Lawrence,2.5,-1.49,43.7,56.3,-3.99,BET JAX (+2.5),HIGH (3★),6.08,Market Discrepancy (+4.0 pts Edge)
+2026_02_LV_LAC,2026-09-20,LV @ LAC,LAC,LV,J.Herbert,K.Cousins,8.5,2.52,60.6,39.4,-5.98,BET LV (+8.5),HIGH (3★),9.73,Opponent-Adjusted EPA Advantage (LAC) | Market Discrepancy (+6.0 pts Edge)
+2026_02_SEA_ARI,2026-09-20,SEA @ ARI,ARI,SEA,J.Brissett,S.Darnold,-10.0,0.83,53.5,46.5,10.83,BET ARI (+10.0),HIGH (3★),17.12,Opponent-Adjusted EPA Advantage (ARI) | Market Discrepancy (+10.8 pts Edge)
+2026_02_WAS_DAL,2026-09-20,WAS @ DAL,DAL,WAS,D.Prescott,J.Daniels,4.5,3.31,63.8,36.2,-1.19,PASS (No Edge),NO VALUE,0.0,Opponent-Adjusted EPA Advantage (DAL)
+2026_02_MIA_SF,2026-09-20,MIA @ SF,SF,MIA,B.Purdy,M.Willis,10.5,6.95,76.6,23.4,-3.55,BET MIA (+10.5),HIGH (3★),5.27,Opponent-Adjusted EPA Advantage (SF) | Market Discrepancy (+3.6 pts Edge)
+2026_02_IND_KC,2026-09-20,IND @ KC,KC,IND,P.Mahomes,D.Jones,6.5,0.3,51.3,48.7,-6.2,BET IND (+6.5),HIGH (3★),10.14,Opponent-Adjusted EPA Advantage (IND) | Market Discrepancy (+6.2 pts Edge)
+2026_02_NYG_LA,2026-09-21,NYG @ LA,LA,NYG,M.Stafford,J.Dart,8.5,1.75,57.4,42.6,-6.75,BET NYG (+8.5),HIGH (3★),11.16,Market Discrepancy (+6.8 pts Edge)

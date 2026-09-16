@@ -77,7 +77,22 @@ def update_official_starters():
             abbr = res["abbr"]
             all_depths[abbr] = res["starters"]
             st_cnt = len(res["starters"])
-            print(f"  ✓ {abbr:<4}: {st_cnt} starter positions mapped.")
+    # Load existing depth charts if available to avoid partial wipes
+    existing_depths = {}
+    if OFFICIAL_DEPTHCHARTS_FILE.exists():
+        try:
+            with open(OFFICIAL_DEPTHCHARTS_FILE, "r", encoding="utf-8") as f:
+                existing_depths = json.load(f)
+        except Exception:
+            pass
+
+    for abbr, st in all_depths.items():
+        if len(st) < 15 and abbr in existing_depths:
+            # Merge with existing so offensive/defensive starters are not lost
+            merged = existing_depths[abbr].copy()
+            merged.update(st)
+            all_depths[abbr] = merged
+            print(f"  ℹ️ {abbr:<4}: Preserved and merged {len(merged)} starter positions from previous verified depth chart.")
 
     # Save full depth charts
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -89,6 +104,14 @@ def update_official_starters():
     star_players = {}
     active_qb_starters = {}
 
+    existing_qbs = {}
+    if ACTIVE_STARTERS_FILE.exists():
+        try:
+            with open(ACTIVE_STARTERS_FILE, "r", encoding="utf-8") as f:
+                existing_qbs = json.load(f)
+        except Exception:
+            pass
+
     for abbr, st in all_depths.items():
         team_stars = []
 
@@ -97,8 +120,13 @@ def update_official_starters():
         if qb_info:
             full_name = qb_info["name"]
             parts = full_name.split()
-            short_qb = f"{parts[0][0]}.{parts[-1]}" if len(parts) >= 2 else full_name
+            last = parts[-1]
+            if len(parts) >= 3 and last in ["Jr.", "Sr.", "II", "III", "IV", "V"]:
+                last = parts[-2]
+            short_qb = f"{parts[0][0]}.{last}" if len(parts) >= 2 else full_name
             active_qb_starters[abbr] = short_qb
+        elif abbr in existing_qbs:
+            active_qb_starters[abbr] = existing_qbs[abbr]
 
         # Offensive Starters: WR1, WR2, TE1, RB1
         for pos_k in ["wr1", "wr2", "te", "rb"]:

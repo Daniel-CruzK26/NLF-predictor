@@ -83,8 +83,11 @@
         <section id="view-slate" class="view-section active">
             <div class="controls-bar">
                 <div style="display:flex; align-items:center; gap: 0.75rem;">
-                    <h2 style="font-family:var(--font-display); font-size:1.2rem; font-weight:800;">Semana 1 (Temporada 2026)</h2>
-                    <span class="badge-green" style="font-size:0.75rem;">16 Partidos Analizados</span>
+                    <select id="week-selector" style="background:var(--card-bg); color:var(--text-primary); border:1px solid var(--border-color); border-radius:8px; padding:0.4rem 0.8rem; font-family:var(--font-display); font-size:1.05rem; font-weight:800; cursor:pointer;">
+                        <option value="2" selected>🏈 Semana 2 (Próxima)</option>
+                        <option value="1">🏈 Semana 1 (Finalizada)</option>
+                    </select>
+                    <span class="badge-green" id="games-count-badge" style="font-size:0.75rem;">16 Partidos Analizados</span>
                 </div>
                 <div class="filter-group">
                     <span style="font-size:0.78rem; color:var(--text-muted); font-weight:700;">FILTRAR:</span>

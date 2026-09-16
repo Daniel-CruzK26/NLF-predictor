@@ -1,294 +1,294 @@
 {
-  "ATL": {
+  "CHI": {
     "lde": {
-      "name": "LaCale London",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Gervon Dexter Sr.",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Brandon Dorlus",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Za'Darius Smith",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Kendal Daniels",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Divine Deablo",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Samson Ebukam",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "A.J. Terrell Jr.",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Jessie Bates III",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Xavier Watts",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Mike Hughes",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Billy Bowman Jr.",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Nick Folk",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Jake Bailey",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Jake Bailey",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Zachariah Branch",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Brian Robinson Jr.",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Liam McCullough",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Drake London",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Jahan Dotson",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Olamide Zaccheaus",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Jake Matthews",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Matthew Bergeron",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Ryan Neuzil",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Chris Lindstrom",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Jawaan Taylor",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Tua Tagovailoa",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Kyle Pitts Sr.",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Bijan Robinson",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "TEN": {
-    "lde": {
-      "name": "John Franklin-Myers",
+      "name": "Montez Sweat",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
     "ldt": {
-      "name": "Jeffery Simmons",
+      "name": "Grady Jarrett",
       "pos_name": "Left Defensive Tackle",
       "pos_abbr": "LDT"
     },
     "rdt": {
-      "name": "Jordan Elliott",
+      "name": "Kentavius Street",
       "pos_name": "Right Defensive Tackle",
       "pos_abbr": "RDT"
     },
     "rde": {
-      "name": "Jermaine Johnson II",
+      "name": "Dayo Odeyingbo",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Cedric Gray",
+      "name": "Devin Bush",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
     "mlb": {
-      "name": "Cody Barton",
+      "name": "T.J. Edwards",
       "pos_name": "Middle Linebacker",
       "pos_abbr": "MLB"
     },
     "slb": {
-      "name": "James Williams Sr.",
+      "name": "D'Marco Jackson",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Cor'Dale Flott",
+      "name": "Jaylon Johnson",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Amani Hooker",
+      "name": "Dillon Thieneman",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Kevin Winston Jr.",
+      "name": "Xavier Woods",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Alontae Taylor",
+      "name": "Tyrique Stevenson Sr.",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Marcus Harris",
+      "name": "Cam Lewis",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Joey Slye",
+      "name": "Cairo Santos",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Tommy Townsend",
+      "name": "Tory Taylor",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Tommy Townsend",
+      "name": "Tory Taylor",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Chimere Dike",
+      "name": "Kalif Raymond",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Chimere Dike",
+      "name": "Kalif Raymond",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "Morgan Cox",
+      "name": "Beau Gardner",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "Carnell Tate",
+      "name": "Rome Odunze",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Wan'Dale Robinson",
+      "name": "Luther Burden III",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Calvin Ridley",
+      "name": "Kalif Raymond",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Dan Moore Jr.",
+      "name": "Braxton Jones",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "Peter Skoronski",
+      "name": "Joe Thuney",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Austin Schlottmann",
+      "name": "Garrett Bradbury",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Fernando Carmona",
+      "name": "Jonah Jackson",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "JC Latham",
+      "name": "Darnell Wright",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Cam Ward",
+      "name": "Caleb Williams",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Gunnar Helm",
+      "name": "Colston Loveland",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "Tony Pollard",
+      "name": "D'Andre Swift",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "BUF": {
+    "lde": {
+      "name": "T.J. Sanders",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Deone Walker",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Ed Oliver",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Greg Rousseau",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Dorian Williams",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Terrel Bernard",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Bradley Chubb",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Christian Benford",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Cole Bishop",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "C.J. Gardner-Johnson",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Maxwell Hairston",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Dee Alford",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Tyler Bass",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Tommy Doman Jr.",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Tommy Doman Jr.",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Dee Alford",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Ray Davis",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Reid Ferguson",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "DJ Moore",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Khalil Shakir",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Keon Coleman",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Dion Dawkins",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Alec Anderson",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Connor McGovern",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "O'Cyrus Torrence",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Spencer Brown",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Josh Allen",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Dalton Kincaid",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "James Cook III",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
@@ -445,148 +445,6 @@
       "pos_abbr": "FB"
     }
   },
-  "DEN": {
-    "lde": {
-      "name": "Malcolm Roach",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "D.J. Jones",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Zach Allen",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Dondrea Tillman",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Alex Singleton",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Justin Strnad",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Nik Bonitto",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Pat Surtain II",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Talanoa Hufanga",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Brandon Jones",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Riley Moss",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Ja'Quan McMillian",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Wil Lutz",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Jeremy Crawshaw",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Jeremy Crawshaw",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Marvin Mims Jr.",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Marvin Mims Jr.",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "wr1": {
-      "name": "Jaylen Waddle",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Courtland Sutton",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Troy Franklin",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Garett Bolles",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Ben Powers",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Luke Wattenberg",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Quinn Meinerz",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Mike McGlinchey",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Bo Nix",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Evan Engram",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "J.K. Dobbins",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
   "DET": {
     "lde": {
       "name": "Aidan Hutchinson",
@@ -599,7 +457,7 @@
       "pos_abbr": "LDT"
     },
     "rdt": {
-      "name": "Levi Onwuzurike",
+      "name": "Tyleik Williams",
       "pos_name": "Right Defensive Tackle",
       "pos_abbr": "RDT"
     },
@@ -639,7 +497,7 @@
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Keith Abney II",
+      "name": "Rock Ya-Sin",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
@@ -664,7 +522,7 @@
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Tay Martin",
+      "name": "Tom Kennedy",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
@@ -730,6 +588,447 @@
     },
     "rb": {
       "name": "Jahmyr Gibbs",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "TEN": {
+    "lde": {
+      "name": "John Franklin-Myers",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Jeffery Simmons",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "rdt": {
+      "name": "Jordan Elliott",
+      "pos_name": "Right Defensive Tackle",
+      "pos_abbr": "RDT"
+    },
+    "rde": {
+      "name": "Jermaine Johnson II",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Cedric Gray",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "mlb": {
+      "name": "Cody Barton",
+      "pos_name": "Middle Linebacker",
+      "pos_abbr": "MLB"
+    },
+    "slb": {
+      "name": "James Williams Sr.",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Cor'Dale Flott",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Amani Hooker",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Kevin Winston Jr.",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Alontae Taylor",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Marcus Harris",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Joey Slye",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Tommy Townsend",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Tommy Townsend",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Chimere Dike",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Chimere Dike",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Morgan Cox",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Carnell Tate",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Wan'Dale Robinson",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Calvin Ridley",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Dan Moore Jr.",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Peter Skoronski",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Austin Schlottmann",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Fernando Carmona",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "JC Latham",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Cam Ward",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Gunnar Helm",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Tony Pollard",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "CIN": {
+    "lde": {
+      "name": "Boye Mafe",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Dexter Lawrence II",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "rdt": {
+      "name": "Jonathan Allen",
+      "pos_name": "Right Defensive Tackle",
+      "pos_abbr": "RDT"
+    },
+    "rde": {
+      "name": "Myles Murphy",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Demetrius Knight Jr.",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "mlb": {
+      "name": "Barrett Carter",
+      "pos_name": "Middle Linebacker",
+      "pos_abbr": "MLB"
+    },
+    "slb": {
+      "name": "Oren Burks",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Dax Hill",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Jordan Battle",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Bryan Cook",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "DJ Turner II",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Jalen Davis",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Evan McPherson",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Ryan Rehkow",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Ryan Rehkow",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Dohnte Meyers",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Dohnte Meyers",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "William Wagner",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Ja'Marr Chase",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Tee Higgins",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Andrei Iosivas",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Orlando Brown Jr.",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Dylan Fairchild",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Ted Karras",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Dalton Risner",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Amarius Mims",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Joe Burrow",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Mike Gesicki",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Chase Brown",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "ATL": {
+    "lde": {
+      "name": "LaCale London",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Gervon Dexter Sr.",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Brandon Dorlus",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Za'Darius Smith",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Kendal Daniels",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Divine Deablo",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Samson Ebukam",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "A.J. Terrell Jr.",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Jessie Bates III",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Xavier Watts",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Mike Hughes",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Billy Bowman Jr.",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Nick Folk",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Jake Bailey",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Jake Bailey",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Zachariah Branch",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Brian Robinson Jr.",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Liam McCullough",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Drake London",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Jahan Dotson",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Olamide Zaccheaus",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Jake Matthews",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Matthew Bergeron",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Ryan Neuzil",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Chris Lindstrom",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Jawaan Taylor",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Michael Penix Jr.",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Kyle Pitts Sr.",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Bijan Robinson",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
@@ -886,447 +1185,6 @@
       "pos_abbr": "FB"
     }
   },
-  "CHI": {
-    "lde": {
-      "name": "Montez Sweat",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "ldt": {
-      "name": "Grady Jarrett",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "Kentavius Street",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
-    },
-    "rde": {
-      "name": "Dayo Odeyingbo",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Devin Bush",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "mlb": {
-      "name": "T.J. Edwards",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
-    },
-    "slb": {
-      "name": "D'Marco Jackson",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Jaylon Johnson",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Dillon Thieneman",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Xavier Woods",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Tyrique Stevenson",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Cam Lewis",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Cairo Santos",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Tory Taylor",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Tory Taylor",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Kalif Raymond",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Kalif Raymond",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Beau Gardner",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Rome Odunze",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Luther Burden III",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Kalif Raymond",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Braxton Jones",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Joe Thuney",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Garrett Bradbury",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Jonah Jackson",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Darnell Wright",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Caleb Williams",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Colston Loveland",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "D'Andre Swift",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "CIN": {
-    "lde": {
-      "name": "Boye Mafe",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "ldt": {
-      "name": "Dexter Lawrence II",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "Jonathan Allen",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
-    },
-    "rde": {
-      "name": "Myles Murphy",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Demetrius Knight Jr.",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "mlb": {
-      "name": "Barrett Carter",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
-    },
-    "slb": {
-      "name": "Oren Burks",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Dax Hill",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Jordan Battle",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Bryan Cook",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "DJ Turner II",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Jalen Davis",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Evan McPherson",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Ryan Rehkow",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Ryan Rehkow",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Dohnte Meyers",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Ke'Shawn Williams",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "William Wagner",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Ja'Marr Chase",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Tee Higgins",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Andrei Iosivas",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Orlando Brown Jr.",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Dylan Fairchild",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Ted Karras",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Dalton Risner",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Amarius Mims",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Joe Burrow",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Mike Gesicki",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Chase Brown",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "BUF": {
-    "lde": {
-      "name": "T.J. Sanders",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Deone Walker",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Ed Oliver",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Greg Rousseau",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Dorian Williams",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Terrel Bernard",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Bradley Chubb",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Christian Benford",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Cole Bishop",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "C.J. Gardner-Johnson",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Maxwell Hairston",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Dee Alford",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Tyler Bass",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Tommy Doman Jr.",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Tommy Doman Jr.",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Dee Alford",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Ray Davis",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Reid Ferguson",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "DJ Moore",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Khalil Shakir",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Keon Coleman",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Dion Dawkins",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Alec Anderson",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Connor McGovern",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "O'Cyrus Torrence",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Spencer Brown",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Josh Allen",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Dalton Kincaid",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "James Cook III",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
   "GB": {
     "lde": {
       "name": "Karl Brooks",
@@ -1409,7 +1267,7 @@
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Skyy Moore",
+      "name": "Bo Melton",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
@@ -1470,6 +1328,746 @@
     },
     "rb": {
       "name": "MarShawn Lloyd",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "DEN": {
+    "lde": {
+      "name": "Zach Allen",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "D.J. Jones",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Eyioma Uwazurike",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Jonah Elliss",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Alex Singleton",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Justin Strnad",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Nik Bonitto",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Pat Surtain II",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Talanoa Hufanga",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Brandon Jones",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Riley Moss",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Ja'Quan McMillian",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Wil Lutz",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Jeremy Crawshaw",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Jeremy Crawshaw",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Marvin Mims Jr.",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Marvin Mims Jr.",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "wr1": {
+      "name": "Jaylen Waddle",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Courtland Sutton",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Marvin Mims Jr.",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Garett Bolles",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Ben Powers",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Luke Wattenberg",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Quinn Meinerz",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Mike McGlinchey",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Bo Nix",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Evan Engram",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "J.K. Dobbins",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "IND": {
+    "lde": {
+      "name": "Arden Key",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Grover Stewart",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "rdt": {
+      "name": "DeForest Buckner",
+      "pos_name": "Right Defensive Tackle",
+      "pos_abbr": "RDT"
+    },
+    "rde": {
+      "name": "Laiatu Latu",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Jaylon Carlies",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "mlb": {
+      "name": "Akeem Davis-Gaither",
+      "pos_name": "Middle Linebacker",
+      "pos_abbr": "MLB"
+    },
+    "slb": {
+      "name": "Bryce Boettcher",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Sauce Gardner",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "A.J. Haulcy",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Cam Bynum",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Charvarius Ward",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Justin Walley",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Spencer Shrader",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Rigoberto Sanchez",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Rigoberto Sanchez",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Josh Downs",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Ashton Dulin",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Luke Rhodes",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Alec Pierce",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Josh Downs",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Keenan Allen",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Bernhard Raimann",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Quenton Nelson",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Tanor Bortolini",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Matt Goncalves",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Jalen Travis",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Daniel Jones",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Tyler Warren",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Jonathan Taylor",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "MIA": {
+    "lde": {
+      "name": "Chop Robinson",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Jordan Phillips",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "rdt": {
+      "name": "Zach Sieler",
+      "pos_name": "Right Defensive Tackle",
+      "pos_abbr": "RDT"
+    },
+    "rde": {
+      "name": "Josh Uche",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Jordyn Brooks",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "mlb": {
+      "name": "Jacob Rodriguez",
+      "pos_name": "Middle Linebacker",
+      "pos_abbr": "MLB"
+    },
+    "slb": {
+      "name": "Willie Gay Jr.",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Jason Marshall Jr.",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Dante Trader Jr.",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Zayne Anderson",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "JuJu Brents",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Chris Johnson",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Riley Patterson",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Bradley Pinion",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Bradley Pinion",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Malik Washington",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Malik Washington",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Tucker Addington",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Malik Washington",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Caleb Douglas",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Chris Bell",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Patrick Paul",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Kadyn Proctor",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Aaron Brewer",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Jonah Savaiinaea",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Austin Jackson",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Malik Willis",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Greg Dulcich",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "De'Von Achane",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    },
+    "fb": {
+      "name": "DJ Herman",
+      "pos_name": "Fullback",
+      "pos_abbr": "FB"
+    }
+  },
+  "KC": {
+    "lde": {
+      "name": "George Karlaftis",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Chris Jones",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "rdt": {
+      "name": "Khyiris Tonga",
+      "pos_name": "Right Defensive Tackle",
+      "pos_abbr": "RDT"
+    },
+    "rde": {
+      "name": "Felix Anudike-Uzomah",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Drue Tranquill",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "mlb": {
+      "name": "Nick Bolton",
+      "pos_name": "Middle Linebacker",
+      "pos_abbr": "MLB"
+    },
+    "slb": {
+      "name": "Jeffrey Bassa",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Nohl Williams",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Chamarri Conner",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Alohi Gilman",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Mansoor Delane",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "L'Jarius Sneed",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Harrison Butker",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Matt Araiza",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Matt Araiza",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Nikko Remigio",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Nikko Remigio",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "James Winchester",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Rashee Rice",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Xavier Worthy",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Tyquan Thornton",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Josh Simmons",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Kingsley Suamataia",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Creed Humphrey",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Trey Smith",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Kahlil Benson",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Patrick Mahomes",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Travis Kelce",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Kenneth Walker III",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    },
+    "fb": {
+      "name": "Ben VanSumeren",
+      "pos_name": "Fullback",
+      "pos_abbr": "FB"
+    }
+  },
+  "LA": {
+    "lde": {
+      "name": "Kobie Turner",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Poona Ford",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Aaron Donald",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Byron Young",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Nate Landman",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Omar Speights",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Desjuan Johnson",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Jaylen Watson",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Kamren Kinchens",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Kam Curl",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Trent McDuffie",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Quentin Lake",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Harrison Mevis",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Ethan Evans",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Ethan Evans",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Xavier Smith",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Jordan Whittington",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Joe Cardona",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Puka Nacua",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Davante Adams",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Jordan Whittington",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Alaric Jackson",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Steve Avila",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Coleman Shelton",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Kevin Dotson",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Warren McClendon Jr.",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Matthew Stafford",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Colby Parkinson",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Kyren Williams",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
@@ -1626,447 +2224,6 @@
       "pos_abbr": "FB"
     }
   },
-  "KC": {
-    "lde": {
-      "name": "George Karlaftis",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "ldt": {
-      "name": "Chris Jones",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "Khyiris Tonga",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
-    },
-    "rde": {
-      "name": "Felix Anudike-Uzomah",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Drue Tranquill",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "mlb": {
-      "name": "Nick Bolton",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
-    },
-    "slb": {
-      "name": "Jeffrey Bassa",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "L'Jarius Sneed",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Chamarri Conner",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Alohi Gilman",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Mansoor Delane",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Jadon Canady",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Harrison Butker",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Matt Araiza",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Matt Araiza",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Nikko Remigio",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Nikko Remigio",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "James Winchester",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Rashee Rice",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Xavier Worthy",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Tyquan Thornton",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Josh Simmons",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Kingsley Suamataia",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Creed Humphrey",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Trey Smith",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Kahlil Benson",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Patrick Mahomes",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Travis Kelce",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Kenneth Walker III",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "IND": {
-    "lde": {
-      "name": "Arden Key",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "ldt": {
-      "name": "Grover Stewart",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "DeForest Buckner",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
-    },
-    "rde": {
-      "name": "Laiatu Latu",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Jaylon Carlies",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "mlb": {
-      "name": "Akeem Davis-Gaither",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
-    },
-    "slb": {
-      "name": "Bryce Boettcher",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Sauce Gardner",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "A.J. Haulcy",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Cam Bynum",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Charvarius Ward",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Justin Walley",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Spencer Shrader",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Rigoberto Sanchez",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Rigoberto Sanchez",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Ashton Dulin",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Ashton Dulin",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Luke Rhodes",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Alec Pierce",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Josh Downs",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Keenan Allen",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Bernhard Raimann",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Quenton Nelson",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Tanor Bortolini",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Matt Goncalves",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Jalen Travis",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Daniel Jones",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Tyler Warren",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Jonathan Taylor",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "LA": {
-    "lde": {
-      "name": "Kobie Turner",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Poona Ford",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Aaron Donald",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Byron Young",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Nate Landman",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Omar Speights",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Myles Garrett",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Jaylen Watson",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Kamren Kinchens",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Kam Curl",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Trent McDuffie",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Quentin Lake",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Harrison Mevis",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Ethan Evans",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Ethan Evans",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Xavier Smith",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Jordan Whittington",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Joe Cardona",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Puka Nacua",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Davante Adams",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Jordan Whittington",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Alaric Jackson",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Steve Avila",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Coleman Shelton",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Kevin Dotson",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Warren McClendon Jr.",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Matthew Stafford",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Colby Parkinson",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Kyren Williams",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
   "MIN": {
     "lde": {
       "name": "Levi Drake Rodriguez",
@@ -2219,156 +2376,303 @@
       "pos_abbr": "FB"
     }
   },
-  "NYJ": {
+  "NE": {
     "lde": {
-      "name": "Kingsley Enagbare",
+      "name": "Christian Barmore",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
-    "ldt": {
-      "name": "T'Vondre Sweat",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "Harrison Phillips",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
+    "nt": {
+      "name": "Cory Durden",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
     },
     "rde": {
-      "name": "Will McDonald IV",
+      "name": "Milton Williams",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Demario Davis",
+      "name": "Elijah Ponder",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
-    "mlb": {
-      "name": "Jamien Sherwood",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
+    "lilb": {
+      "name": "Christian Elliss",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Robert Spillane",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
     },
     "slb": {
-      "name": "Kiko Mauigoa",
+      "name": "Dre'Mont Jones",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Nahshon Wright",
+      "name": "Carlton Davis III",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Dane Belton",
+      "name": "Craig Woodson",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Minkah Fitzpatrick",
+      "name": "Kevin Byard",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Brandon Stephens",
+      "name": "Christian Gonzalez",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Jarvis Brownlee Jr.",
+      "name": "Marcus Jones",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Blake Grupe",
+      "name": "Andy Borregales",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Austin McNamara",
+      "name": "Bryce Baringer",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Austin McNamara",
+      "name": "Bryce Baringer",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Isaiah Williams",
+      "name": "Marcus Jones",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Kene Nwangwu",
+      "name": "Kyle Williams",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "Thomas Hennessy",
+      "name": "Julian Ashby",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "Garrett Wilson",
+      "name": "Romeo Doubs",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Adonai Mitchell",
+      "name": "DeMario Douglas",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Omar Cooper Jr.",
+      "name": "Mack Hollins",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Olu Fashanu",
+      "name": "Will Campbell",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "Dylan Parham",
+      "name": "Alijah Vera-Tucker",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Josh Myers",
+      "name": "Jared Wilson",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Joe Tippmann",
+      "name": "Mike Onwenu",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "Armand Membou",
+      "name": "Morgan Moses",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Geno Smith",
+      "name": "Drake Maye",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Mason Taylor",
+      "name": "Hunter Henry",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "Breece Hall",
+      "name": "Rhamondre Stevenson",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     },
     "fb": {
-      "name": "Andrew Beck",
+      "name": "Reggie Gilliam",
       "pos_name": "Fullback",
       "pos_abbr": "FB"
+    }
+  },
+  "NO": {
+    "lde": {
+      "name": "Cameron Jordan",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Davon Godchaux",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Colby Wooden",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Carl Granderson",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Kaden Elliss",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Pete Werner",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Chase Young",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Kool-Aid McKinstry",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Justin Reid",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Julian Blackmon",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Quincy Riley",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Jonas Sanker",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Daniel Carlson",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Ryan Wright",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Ryan Wright",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Barion Brown",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Barion Brown",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Zach Wood",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Chris Olave",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Devaughn Vele",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Barion Brown",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Kelvin Banks Jr.",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "David Edwards",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Erik McCoy",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Cesar Ruiz",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Taliese Fuaga",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Tyler Shough",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Juwan Johnson",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Travis Etienne Jr.",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
     }
   },
   "NYG": {
@@ -2523,453 +2827,622 @@
       "pos_abbr": "FB"
     }
   },
-  "MIA": {
+  "NYJ": {
     "lde": {
-      "name": "Chop Robinson",
+      "name": "Kingsley Enagbare",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
     "ldt": {
-      "name": "Jordan Phillips",
+      "name": "T'Vondre Sweat",
       "pos_name": "Left Defensive Tackle",
       "pos_abbr": "LDT"
     },
     "rdt": {
-      "name": "Zach Sieler",
+      "name": "Harrison Phillips",
       "pos_name": "Right Defensive Tackle",
       "pos_abbr": "RDT"
     },
     "rde": {
-      "name": "Josh Uche",
+      "name": "Will McDonald IV",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Jordyn Brooks",
+      "name": "Demario Davis",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
     "mlb": {
-      "name": "Jacob Rodriguez",
+      "name": "Jamien Sherwood",
       "pos_name": "Middle Linebacker",
       "pos_abbr": "MLB"
     },
     "slb": {
-      "name": "Willie Gay Jr.",
+      "name": "Kiko Mauigoa",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Jason Marshall Jr.",
+      "name": "Nahshon Wright",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Dante Trader Jr.",
+      "name": "Dane Belton",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Zayne Anderson",
+      "name": "Minkah Fitzpatrick",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "JuJu Brents",
+      "name": "Brandon Stephens",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Chris Johnson",
+      "name": "Jarvis Brownlee Jr.",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Riley Patterson",
+      "name": "Jason Sanders",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Bradley Pinion",
+      "name": "Austin McNamara",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Bradley Pinion",
+      "name": "Austin McNamara",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Malik Washington",
+      "name": "Isaiah Williams",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Malik Washington",
+      "name": "Kene Nwangwu",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "Tucker Addington",
+      "name": "Thomas Hennessy",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "Malik Washington",
+      "name": "Garrett Wilson",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Caleb Douglas",
+      "name": "Adonai Mitchell",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Chris Bell",
+      "name": "Omar Cooper Jr.",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Patrick Paul",
+      "name": "Olu Fashanu",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "Kadyn Proctor",
+      "name": "Dylan Parham",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Aaron Brewer",
+      "name": "Josh Myers",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Jonah Savaiinaea",
+      "name": "Joe Tippmann",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "Austin Jackson",
+      "name": "Armand Membou",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Malik Willis",
+      "name": "Geno Smith",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Greg Dulcich",
+      "name": "Mason Taylor",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "De'Von Achane",
+      "name": "Breece Hall",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     },
     "fb": {
-      "name": "DJ Herman",
+      "name": "Andrew Beck",
       "pos_name": "Fullback",
       "pos_abbr": "FB"
     }
   },
-  "NE": {
+  "ARI": {
     "lde": {
-      "name": "Christian Barmore",
+      "name": "Josh Sweat",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "ldt": {
+      "name": "Roy Lopez",
+      "pos_name": "Left Defensive Tackle",
+      "pos_abbr": "LDT"
+    },
+    "lcb": {
+      "name": "Will Johnson",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "fs": {
+      "name": "Andrew Wingard",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    }
+  },
+  "PHI": {
+    "lde": {
+      "name": "Jalen Carter",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
     "nt": {
-      "name": "Cory Durden",
+      "name": "Jordan Davis",
       "pos_name": "Nose Tackle",
       "pos_abbr": "NT"
     },
     "rde": {
-      "name": "Milton Williams",
+      "name": "Moro Ojomo",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Elijah Ponder",
+      "name": "Nolan Smith Jr.",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
     "lilb": {
-      "name": "Christian Elliss",
+      "name": "Zack Baun",
       "pos_name": "Left Inside Linebacker",
       "pos_abbr": "LILB"
     },
     "rilb": {
-      "name": "Robert Spillane",
+      "name": "Jihaad Campbell",
       "pos_name": "Right Inside Linebacker",
       "pos_abbr": "RILB"
     },
     "slb": {
-      "name": "Dre'Mont Jones",
+      "name": "Jonathan Greenard",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Carlton Davis III",
+      "name": "Riq Woolen",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Craig Woodson",
+      "name": "Marcus Epps",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Kevin Byard",
+      "name": "Andrew Mukuba",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Christian Gonzalez",
+      "name": "Quinyon Mitchell",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Marcus Jones",
+      "name": "Cooper DeJean",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Andy Borregales",
+      "name": "Jake Elliott",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Bryce Baringer",
+      "name": "Braden Mann",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Bryce Baringer",
+      "name": "Braden Mann",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Marcus Jones",
+      "name": "Britain Covey",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Kyle Williams",
+      "name": "Will Shipley",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "Julian Ashby",
+      "name": "Rocco Underwood",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "A.J. Brown",
+      "name": "DeVonta Smith",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Romeo Doubs",
+      "name": "Dontayvion Wicks",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "DeMario Douglas",
+      "name": "Makai Lemon",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Will Campbell",
+      "name": "Jordan Mailata",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "Alijah Vera-Tucker",
+      "name": "Willie Lampkin",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Jared Wilson",
+      "name": "Cam Jurgens",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Mike Onwenu",
+      "name": "Tyler Steen",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "Morgan Moses",
+      "name": "Lane Johnson",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Drake Maye",
+      "name": "Jalen Hurts",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Hunter Henry",
+      "name": "Dallas Goedert",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "Rhamondre Stevenson",
+      "name": "Saquon Barkley",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "PIT": {
+    "lde": {
+      "name": "Derrick Harmon",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Keeanu Benton",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Cameron Heyward",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "T.J. Watt",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Payton Wilson",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Patrick Queen",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Alex Highsmith",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Joey Porter Jr.",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Rayshawn Jenkins",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Jaquan Brisker",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Jamel Dean",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Jalen Ramsey",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Chris Boswell",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Cameron Johnston",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Cameron Johnston",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Kaden Wetjen",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Kaden Wetjen",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Christian Kuntz",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "DK Metcalf",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Michael Pittman Jr.",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Roman Wilson",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Troy Fautanu",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Mason McCormick",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Zach Frazier",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Spencer Anderson",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Dylan Cook",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Aaron Rodgers",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Darnell Washington",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Jaylen Warren",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     },
     "fb": {
-      "name": "Reggie Gilliam",
+      "name": "Riley Nowakowski",
       "pos_name": "Fullback",
       "pos_abbr": "FB"
     }
   },
-  "NO": {
+  "CAR": {
     "lde": {
-      "name": "Cameron Jordan",
+      "name": "Derrick Brown",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
     "nt": {
-      "name": "Davon Godchaux",
+      "name": "Lee Hunter",
       "pos_name": "Nose Tackle",
       "pos_abbr": "NT"
     },
     "rde": {
-      "name": "Colby Wooden",
+      "name": "Bobby Brown III",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Carl Granderson",
+      "name": "Patrick Jones II",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
     "lilb": {
-      "name": "Kaden Elliss",
+      "name": "Devin Lloyd",
       "pos_name": "Left Inside Linebacker",
       "pos_abbr": "LILB"
     },
     "rilb": {
-      "name": "Pete Werner",
+      "name": "Bobby Okereke",
       "pos_name": "Right Inside Linebacker",
       "pos_abbr": "RILB"
     },
     "slb": {
-      "name": "Chase Young",
+      "name": "Jaelan Phillips",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Kool-Aid McKinstry",
+      "name": "Mike Jackson",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Justin Reid",
+      "name": "Tre'von Moehrig",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Julian Blackmon",
+      "name": "Nick Scott",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Quincy Riley",
+      "name": "Jaycee Horn",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Jonas Sanker",
+      "name": "Chau Smith-Wade",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Daniel Carlson",
+      "name": "Ryan Fitzgerald",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Ryan Wright",
+      "name": "Sam Martin",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Ryan Wright",
+      "name": "Sam Martin",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Barion Brown",
+      "name": "John Metchie III",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Barion Brown",
+      "name": "John Metchie III",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "Zach Wood",
+      "name": "JJ Jansen",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "Chris Olave",
+      "name": "Tetairoa McMillan",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Devaughn Vele",
+      "name": "Jalen Coker",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Bryce Lance",
+      "name": "Xavier Legette",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Kelvin Banks Jr.",
+      "name": "Rasheed Walker",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "David Edwards",
+      "name": "Damien Lewis",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Erik McCoy",
+      "name": "Luke Fortner",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Cesar Ruiz",
+      "name": "Robert Hunt",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "Taliese Fuaga",
+      "name": "Monroe Freeling",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Tyler Shough",
+      "name": "Bryce Young",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Juwan Johnson",
+      "name": "Tommy Tremble",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "Travis Etienne Jr.",
+      "name": "Chuba Hubbard",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
@@ -3126,6 +3599,158 @@
       "pos_abbr": "FB"
     }
   },
+  "LAC": {
+    "lde": {
+      "name": "Teair Tart",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Dalvin Tomlinson",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "Jamaree Caldwell",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Tuli Tuipulotu",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Daiyan Henley",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Del'Shawn Phillips",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Khalil Mack",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Cam Hart",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Derwin James Jr.",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Elijah Molden",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Donte Jackson",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Tarheeb Still",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Cameron Dicker",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "JK Scott",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "JK Scott",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Derius Davis",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Derius Davis",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Josh Harris",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Ladd McConkey",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Quentin Johnston",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Tre' Harris",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Rashawn Slater",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Kayode Awosika",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Jake Slaughter",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Cole Strange",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Joe Alt",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Justin Herbert",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Charlie Kolar",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Omarion Hampton",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    },
+    "fb": {
+      "name": "Alec Ingold",
+      "pos_name": "Fullback",
+      "pos_abbr": "FB"
+    }
+  },
   "SF": {
     "lde": {
       "name": "Keion White",
@@ -3278,149 +3903,296 @@
       "pos_abbr": "FB"
     }
   },
-  "CAR": {
+  "WAS": {
     "lde": {
-      "name": "Derrick Brown",
+      "name": "Tim Settle",
       "pos_name": "Left Defensive End",
       "pos_abbr": "LDE"
     },
     "nt": {
-      "name": "Lee Hunter",
+      "name": "Daron Payne",
       "pos_name": "Nose Tackle",
       "pos_abbr": "NT"
     },
     "rde": {
-      "name": "Bobby Brown III",
+      "name": "Javon Kinlaw",
       "pos_name": "Right Defensive End",
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Patrick Jones II",
+      "name": "Odafe Oweh",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
     "lilb": {
-      "name": "Devin Lloyd",
+      "name": "Frankie Luvu",
       "pos_name": "Left Inside Linebacker",
       "pos_abbr": "LILB"
     },
     "rilb": {
-      "name": "Bobby Okereke",
+      "name": "Sonny Styles",
       "pos_name": "Right Inside Linebacker",
       "pos_abbr": "RILB"
     },
     "slb": {
-      "name": "Jaelan Phillips",
+      "name": "Dorance Armstrong",
       "pos_name": "Strongside Linebacker",
       "pos_abbr": "SLB"
     },
     "lcb": {
-      "name": "Mike Jackson",
+      "name": "Rasul Douglas",
       "pos_name": "Left Cornerback",
       "pos_abbr": "LCB"
     },
     "ss": {
-      "name": "Tre'von Moehrig",
+      "name": "Nick Cross",
       "pos_name": "Strong Safety",
       "pos_abbr": "SS"
     },
     "fs": {
-      "name": "Nick Scott",
+      "name": "Jeremy Reaves",
       "pos_name": "Free Safety",
       "pos_abbr": "FS"
     },
     "rcb": {
-      "name": "Jaycee Horn",
+      "name": "Mike Sainristil",
       "pos_name": "Right Cornerback",
       "pos_abbr": "RCB"
     },
     "nb": {
-      "name": "Chau Smith-Wade",
+      "name": "Amik Robertson",
       "pos_name": "Nickel Back",
       "pos_abbr": "NB"
     },
     "pk": {
-      "name": "Ryan Fitzgerald",
+      "name": "Drew Stevens",
       "pos_name": "Place Kicker",
       "pos_abbr": "PK"
     },
     "p": {
-      "name": "Sam Martin",
+      "name": "Tress Way",
       "pos_name": "Punter",
       "pos_abbr": "P"
     },
     "h": {
-      "name": "Sam Martin",
+      "name": "Tress Way",
       "pos_name": "Holder",
       "pos_abbr": "H"
     },
     "pr": {
-      "name": "Jimmy Horn Jr.",
+      "name": "Jaylin Lane",
       "pos_name": "Punt Returner",
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Jimmy Horn Jr.",
+      "name": "Jaylin Lane",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
     "ls": {
-      "name": "JJ Jansen",
+      "name": "Tyler Ott",
       "pos_name": "Long Snapper",
       "pos_abbr": "LS"
     },
     "wr1": {
-      "name": "Tetairoa McMillan",
+      "name": "Terry McLaurin",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Jalen Coker",
+      "name": "Stefon Diggs",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Xavier Legette",
+      "name": "Antonio Williams",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "lt": {
-      "name": "Rasheed Walker",
+      "name": "Brandon Coleman",
       "pos_name": "Left Tackle",
       "pos_abbr": "LT"
     },
     "lg": {
-      "name": "Damien Lewis",
+      "name": "Chris Paul",
       "pos_name": "Left Guard",
       "pos_abbr": "LG"
     },
     "c": {
-      "name": "Luke Fortner",
+      "name": "Nick Allegretti",
       "pos_name": "Center",
       "pos_abbr": "C"
     },
     "rg": {
-      "name": "Robert Hunt",
+      "name": "Sam Cosmi",
       "pos_name": "Right Guard",
       "pos_abbr": "RG"
     },
     "rt": {
-      "name": "Monroe Freeling",
+      "name": "Josh Conerly Jr.",
       "pos_name": "Right Tackle",
       "pos_abbr": "RT"
     },
     "qb": {
-      "name": "Bryce Young",
+      "name": "Jayden Daniels",
       "pos_name": "Quarterback",
       "pos_abbr": "QB"
     },
     "te": {
-      "name": "Tommy Tremble",
+      "name": "Chig Okonkwo",
       "pos_name": "Tight End",
       "pos_abbr": "TE"
     },
     "rb": {
-      "name": "Chuba Hubbard",
+      "name": "Jacory Croskey-Merritt",
+      "pos_name": "Running Back",
+      "pos_abbr": "RB"
+    }
+  },
+  "TB": {
+    "lde": {
+      "name": "Calijah Kancey",
+      "pos_name": "Left Defensive End",
+      "pos_abbr": "LDE"
+    },
+    "nt": {
+      "name": "Vita Vea",
+      "pos_name": "Nose Tackle",
+      "pos_abbr": "NT"
+    },
+    "rde": {
+      "name": "A'Shawn Robinson",
+      "pos_name": "Right Defensive End",
+      "pos_abbr": "RDE"
+    },
+    "wlb": {
+      "name": "Rueben Bain Jr.",
+      "pos_name": "Weakside Linebacker",
+      "pos_abbr": "WLB"
+    },
+    "lilb": {
+      "name": "Alex Anzalone",
+      "pos_name": "Left Inside Linebacker",
+      "pos_abbr": "LILB"
+    },
+    "rilb": {
+      "name": "Josiah Trotter",
+      "pos_name": "Right Inside Linebacker",
+      "pos_abbr": "RILB"
+    },
+    "slb": {
+      "name": "Yaya Diaby",
+      "pos_name": "Strongside Linebacker",
+      "pos_abbr": "SLB"
+    },
+    "lcb": {
+      "name": "Zyon McCollum",
+      "pos_name": "Left Cornerback",
+      "pos_abbr": "LCB"
+    },
+    "ss": {
+      "name": "Tykee Smith",
+      "pos_name": "Strong Safety",
+      "pos_abbr": "SS"
+    },
+    "fs": {
+      "name": "Antoine Winfield Jr.",
+      "pos_name": "Free Safety",
+      "pos_abbr": "FS"
+    },
+    "rcb": {
+      "name": "Benjamin Morrison",
+      "pos_name": "Right Cornerback",
+      "pos_abbr": "RCB"
+    },
+    "nb": {
+      "name": "Jacob Parrish",
+      "pos_name": "Nickel Back",
+      "pos_abbr": "NB"
+    },
+    "pk": {
+      "name": "Chase McLaughlin",
+      "pos_name": "Place Kicker",
+      "pos_abbr": "PK"
+    },
+    "p": {
+      "name": "Riley Dixon",
+      "pos_name": "Punter",
+      "pos_abbr": "P"
+    },
+    "h": {
+      "name": "Riley Dixon",
+      "pos_name": "Holder",
+      "pos_abbr": "H"
+    },
+    "pr": {
+      "name": "Kameron Johnson",
+      "pos_name": "Punt Returner",
+      "pos_abbr": "PR"
+    },
+    "kr": {
+      "name": "Kameron Johnson",
+      "pos_name": "Kick Returner",
+      "pos_abbr": "KR"
+    },
+    "ls": {
+      "name": "Evan Deckers",
+      "pos_name": "Long Snapper",
+      "pos_abbr": "LS"
+    },
+    "wr1": {
+      "name": "Emeka Egbuka",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr2": {
+      "name": "Chris Godwin Jr.",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "wr3": {
+      "name": "Jalen McMillan",
+      "pos_name": "Wide Receiver",
+      "pos_abbr": "WR"
+    },
+    "lt": {
+      "name": "Tristan Wirfs",
+      "pos_name": "Left Tackle",
+      "pos_abbr": "LT"
+    },
+    "lg": {
+      "name": "Ben Bredeson",
+      "pos_name": "Left Guard",
+      "pos_abbr": "LG"
+    },
+    "c": {
+      "name": "Graham Barton",
+      "pos_name": "Center",
+      "pos_abbr": "C"
+    },
+    "rg": {
+      "name": "Cody Mauch",
+      "pos_name": "Right Guard",
+      "pos_abbr": "RG"
+    },
+    "rt": {
+      "name": "Luke Goedeke",
+      "pos_name": "Right Tackle",
+      "pos_abbr": "RT"
+    },
+    "qb": {
+      "name": "Baker Mayfield",
+      "pos_name": "Quarterback",
+      "pos_abbr": "QB"
+    },
+    "te": {
+      "name": "Cade Otton",
+      "pos_name": "Tight End",
+      "pos_abbr": "TE"
+    },
+    "rb": {
+      "name": "Bucky Irving",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
@@ -3507,7 +4279,7 @@
       "pos_abbr": "PR"
     },
     "kr": {
-      "name": "Bhayshul Tuten",
+      "name": "Ameer Abdullah",
       "pos_name": "Kick Returner",
       "pos_abbr": "KR"
     },
@@ -3674,7 +4446,7 @@
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Ja'Kobi Lane",
+      "name": "Devontez Walker",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
@@ -3719,153 +4491,6 @@
       "pos_abbr": "RB"
     }
   },
-  "ARI": {
-    "lde": {
-      "name": "Josh Sweat",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "ldt": {
-      "name": "Roy Lopez",
-      "pos_name": "Left Defensive Tackle",
-      "pos_abbr": "LDT"
-    },
-    "rdt": {
-      "name": "Walter Nolen III",
-      "pos_name": "Right Defensive Tackle",
-      "pos_abbr": "RDT"
-    },
-    "rde": {
-      "name": "Dante Stills",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Jack Gibbens",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "mlb": {
-      "name": "Mack Wilson Sr.",
-      "pos_name": "Middle Linebacker",
-      "pos_abbr": "MLB"
-    },
-    "slb": {
-      "name": "Zaven Collins",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Will Johnson",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Budda Baker",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Andrew Wingard",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Denzel Burke",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Max Melton",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Chad Ryland",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Blake Gillikin",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Blake Gillikin",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Devin Duvernay",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Devin Duvernay",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Casey Kreiter",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Marvin Harrison Jr.",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Michael Wilson",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Kendrick Bourne",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Paris Johnson Jr.",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Isaac Seumalo",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Hjalte Froholdt",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Isaiah Adams",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Elijah Wilkinson",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Jacoby Brissett",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Trey McBride",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Jeremiyah Love",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
   "HOU": {
     "lde": {
       "name": "Will Anderson Jr.",
@@ -3888,7 +4513,7 @@
       "pos_abbr": "RDE"
     },
     "wlb": {
-      "name": "Henry To'oTo'o",
+      "name": "Aiden Fisher",
       "pos_name": "Weakside Linebacker",
       "pos_abbr": "WLB"
     },
@@ -3963,12 +4588,12 @@
       "pos_abbr": "WR"
     },
     "wr2": {
-      "name": "Kayshon Boutte",
+      "name": "Xavier Hutchinson",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
     "wr3": {
-      "name": "Xavier Hutchinson",
+      "name": "Kayshon Boutte",
       "pos_name": "Wide Receiver",
       "pos_abbr": "WR"
     },
@@ -4009,751 +4634,6 @@
     },
     "rb": {
       "name": "David Montgomery",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "PIT": {
-    "lde": {
-      "name": "Derrick Harmon",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Keeanu Benton",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Cameron Heyward",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "T.J. Watt",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Payton Wilson",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Patrick Queen",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Alex Highsmith",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Joey Porter Jr.",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Rayshawn Jenkins",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Jaquan Brisker",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Jamel Dean",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Jalen Ramsey",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Chris Boswell",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Cameron Johnston",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Cameron Johnston",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Kaden Wetjen",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Kaden Wetjen",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Christian Kuntz",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "DK Metcalf",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Michael Pittman Jr.",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Roman Wilson",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Troy Fautanu",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Mason McCormick",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Zach Frazier",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Spencer Anderson",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Dylan Cook",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Aaron Rodgers",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Pat Freiermuth",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Jaylen Warren",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    },
-    "fb": {
-      "name": "Riley Nowakowski",
-      "pos_name": "Fullback",
-      "pos_abbr": "FB"
-    }
-  },
-  "TB": {
-    "lde": {
-      "name": "Calijah Kancey",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Vita Vea",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "A'Shawn Robinson",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Rueben Bain Jr.",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Alex Anzalone",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Josiah Trotter",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Yaya Diaby",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Zyon McCollum",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Tykee Smith",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Antoine Winfield Jr.",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Benjamin Morrison",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Jacob Parrish",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Chase McLaughlin",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Riley Dixon",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Riley Dixon",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Kameron Johnson",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Kameron Johnson",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Evan Deckers",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Emeka Egbuka",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Chris Godwin Jr.",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Jalen McMillan",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Tristan Wirfs",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Ben Bredeson",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Graham Barton",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Cody Mauch",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Luke Goedeke",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Baker Mayfield",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Cade Otton",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Bucky Irving",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "LAC": {
-    "lde": {
-      "name": "Teair Tart",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Dalvin Tomlinson",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Jamaree Caldwell",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Tuli Tuipulotu",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Daiyan Henley",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Troy Dye",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Khalil Mack",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Cam Hart",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Derwin James Jr.",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Elijah Molden",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Donte Jackson",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Tarheeb Still",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Cameron Dicker",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "JK Scott",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "JK Scott",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Derius Davis",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Derius Davis",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Josh Harris",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Ladd McConkey",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Quentin Johnston",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Tre' Harris",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Rashawn Slater",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Kayode Awosika",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Jake Slaughter",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Cole Strange",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Joe Alt",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Justin Herbert",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Charlie Kolar",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Omarion Hampton",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    },
-    "fb": {
-      "name": "Alec Ingold",
-      "pos_name": "Fullback",
-      "pos_abbr": "FB"
-    }
-  },
-  "WAS": {
-    "lde": {
-      "name": "Tim Settle",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Daron Payne",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Javon Kinlaw",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Odafe Oweh",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Frankie Luvu",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Sonny Styles",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "K'Lavon Chaisson",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Rasul Douglas",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Nick Cross",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Jeremy Reaves",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Mike Sainristil",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Amik Robertson",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Drew Stevens",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Tress Way",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Tress Way",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Jaylin Lane",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Luke McCaffrey",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Tyler Ott",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "Terry McLaurin",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Stefon Diggs",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Antonio Williams",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Brandon Coleman",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Chris Paul",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Nick Allegretti",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Sam Cosmi",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Josh Conerly Jr.",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Jayden Daniels",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Chig Okonkwo",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Jacory Croskey-Merritt",
-      "pos_name": "Running Back",
-      "pos_abbr": "RB"
-    }
-  },
-  "PHI": {
-    "lde": {
-      "name": "Jalen Carter",
-      "pos_name": "Left Defensive End",
-      "pos_abbr": "LDE"
-    },
-    "nt": {
-      "name": "Jordan Davis",
-      "pos_name": "Nose Tackle",
-      "pos_abbr": "NT"
-    },
-    "rde": {
-      "name": "Moro Ojomo",
-      "pos_name": "Right Defensive End",
-      "pos_abbr": "RDE"
-    },
-    "wlb": {
-      "name": "Nolan Smith Jr.",
-      "pos_name": "Weakside Linebacker",
-      "pos_abbr": "WLB"
-    },
-    "lilb": {
-      "name": "Zack Baun",
-      "pos_name": "Left Inside Linebacker",
-      "pos_abbr": "LILB"
-    },
-    "rilb": {
-      "name": "Jihaad Campbell",
-      "pos_name": "Right Inside Linebacker",
-      "pos_abbr": "RILB"
-    },
-    "slb": {
-      "name": "Jonathan Greenard",
-      "pos_name": "Strongside Linebacker",
-      "pos_abbr": "SLB"
-    },
-    "lcb": {
-      "name": "Riq Woolen",
-      "pos_name": "Left Cornerback",
-      "pos_abbr": "LCB"
-    },
-    "ss": {
-      "name": "Marcus Epps",
-      "pos_name": "Strong Safety",
-      "pos_abbr": "SS"
-    },
-    "fs": {
-      "name": "Andrew Mukuba",
-      "pos_name": "Free Safety",
-      "pos_abbr": "FS"
-    },
-    "rcb": {
-      "name": "Quinyon Mitchell",
-      "pos_name": "Right Cornerback",
-      "pos_abbr": "RCB"
-    },
-    "nb": {
-      "name": "Cooper DeJean",
-      "pos_name": "Nickel Back",
-      "pos_abbr": "NB"
-    },
-    "pk": {
-      "name": "Jake Elliott",
-      "pos_name": "Place Kicker",
-      "pos_abbr": "PK"
-    },
-    "p": {
-      "name": "Braden Mann",
-      "pos_name": "Punter",
-      "pos_abbr": "P"
-    },
-    "h": {
-      "name": "Braden Mann",
-      "pos_name": "Holder",
-      "pos_abbr": "H"
-    },
-    "pr": {
-      "name": "Makai Lemon",
-      "pos_name": "Punt Returner",
-      "pos_abbr": "PR"
-    },
-    "kr": {
-      "name": "Will Shipley",
-      "pos_name": "Kick Returner",
-      "pos_abbr": "KR"
-    },
-    "ls": {
-      "name": "Rocco Underwood",
-      "pos_name": "Long Snapper",
-      "pos_abbr": "LS"
-    },
-    "wr1": {
-      "name": "DeVonta Smith",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr2": {
-      "name": "Dontayvion Wicks",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "wr3": {
-      "name": "Makai Lemon",
-      "pos_name": "Wide Receiver",
-      "pos_abbr": "WR"
-    },
-    "lt": {
-      "name": "Jordan Mailata",
-      "pos_name": "Left Tackle",
-      "pos_abbr": "LT"
-    },
-    "lg": {
-      "name": "Landon Dickerson",
-      "pos_name": "Left Guard",
-      "pos_abbr": "LG"
-    },
-    "c": {
-      "name": "Cam Jurgens",
-      "pos_name": "Center",
-      "pos_abbr": "C"
-    },
-    "rg": {
-      "name": "Tyler Steen",
-      "pos_name": "Right Guard",
-      "pos_abbr": "RG"
-    },
-    "rt": {
-      "name": "Lane Johnson",
-      "pos_name": "Right Tackle",
-      "pos_abbr": "RT"
-    },
-    "qb": {
-      "name": "Jalen Hurts",
-      "pos_name": "Quarterback",
-      "pos_abbr": "QB"
-    },
-    "te": {
-      "name": "Dallas Goedert",
-      "pos_name": "Tight End",
-      "pos_abbr": "TE"
-    },
-    "rb": {
-      "name": "Saquon Barkley",
       "pos_name": "Running Back",
       "pos_abbr": "RB"
     }
