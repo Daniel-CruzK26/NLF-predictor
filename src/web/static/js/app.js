@@ -6,15 +6,28 @@ let allPredictions = [];
 let allTeams = [];
 let modelBenchmarks = null;
 let activeFilter = 'all';
+let currentWeek = 2;
 
 document.addEventListener('DOMContentLoaded', () => {
     initNavigation();
-    loadDashboardData();
+    initWeekSelector();
+    loadDashboardData(currentWeek);
     initSimulator();
     loadRosters();
     initRosterManager();
     initMonteCarloView();
 });
+
+function initWeekSelector() {
+    const sel = document.getElementById('week-selector');
+    if (sel) {
+        sel.value = String(currentWeek);
+        sel.addEventListener('change', (e) => {
+            currentWeek = parseInt(e.target.value);
+            loadDashboardData(currentWeek);
+        });
+    }
+}
 
 // --------------------------------------------------------------------------
 // Navigation & Tabs
@@ -39,13 +52,13 @@ function initNavigation() {
         });
     });
 
-    // Matchup Filter Chips
+    // Sub-filters for matches
     const filterButtons = document.querySelectorAll('.filter-btn');
-    filterButtons.forEach(fBtn => {
-        fBtn.addEventListener('click', () => {
-            filterButtons.forEach(b => b.classList.remove('active', 'active-val'));
-            fBtn.classList.add(fBtn.dataset.filter === 'value' ? 'active-val' : 'active');
-            activeFilter = fBtn.dataset.filter;
+    filterButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            filterButtons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            activeFilter = btn.dataset.filter;
             renderMatchupCards();
         });
     });
@@ -54,10 +67,10 @@ function initNavigation() {
 // --------------------------------------------------------------------------
 // Data Fetching
 // --------------------------------------------------------------------------
-async function loadDashboardData() {
+async function loadDashboardData(week = currentWeek) {
     try {
         const [predsRes, teamsRes, modelsRes] = await Promise.all([
-            fetch('/api/predictions?season=2026&week=1'),
+            fetch(`/api/predictions?season=2026&week=${week}`),
             fetch('/api/teams'),
             fetch('/api/models')
         ]);

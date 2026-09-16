@@ -57,7 +57,11 @@ def load_pbp_data(
         if season_cache.exists() and not force_download:
             df_season = pd.read_parquet(season_cache)
         else:
-            df_season = nfl.import_pbp_data([season])
+            try:
+                df_season = nfl.import_pbp_data([season], include_participation=False)
+            except Exception:
+                url = f"https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_{season}.parquet"
+                df_season = pd.read_parquet(url)
             df_season = standardize_team_abbr(df_season, ["home_team", "away_team", "posteam", "defteam"])
             df_season.to_parquet(season_cache, index=False)
         dfs.append(df_season)

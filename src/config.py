@@ -12,7 +12,7 @@ RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 # Seasons configuration
-DEFAULT_SEASONS = list(range(2016, 2025))
+DEFAULT_SEASONS = list(range(2021, 2027))
 
 # Team mapping / standard abbreviations (handling historical moves/renames)
 TEAM_ABBR_MAP = {
